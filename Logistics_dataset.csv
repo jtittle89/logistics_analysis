@@ -1,0 +1,1001 @@
+Shipment_ID,Customer_Name,Origin_City,Origin_State,Destination_City,Destination_State,Pickup_Date,Delivery_Date,Distance_Miles,Freight_Type,Status,Cost_USD,Revenue_USD,Fuel_Gallons,Deadhead_Miles
+SHP0001,"Smith, Colon and Curtis",Raleigh,NC,Montgomery,AL,3/23/2025,3/23/2025,601,Refrigerated,On Time,788.94,995.87,84.57,70
+SHP0002,Olson-Fox,Atlanta,GA,Montgomery,AL,4/7/2025,4/7/2025,1508,Refrigerated,On Time,2413.24,3134.56,205.31,128
+SHP0003,Perez and Sons,Knoxville,TN,Dallas,TX,2/20/2025,2/20/2025,810,Flatbed,On Time,1093.90,1407.71,116.63,28
+SHP0004,Peters-Thompson,San Antonio,TX,Columbia,SC,6/19/2025,6/19/2025,958,Dry Van,On Time,1533.85,1769.96,139.05,35
+SHP0005,"Wilkinson, Olson and Sparks",Augusta,GA,Tampa,FL,7/23/2025,7/23/2025,1231,Flatbed,On Time,1933.22,2357.52,180.25,107
+SHP0006,"King, Webb and Booth",Little Rock,AR,Greenville,SC,4/5/2025,4/10/2025,1449,Dry Van,On Time,2313.88,3217.03,222.13,54
+SHP0007,Brooks-Farmer,Montgomery,AL,Charleston,SC,4/8/2025,4/8/2025,279,Flatbed,Delayed,460.38,587.29,44.10,36
+SHP0008,Jackson-Williams,Raleigh,NC,Orlando,FL,5/26/2025,5/26/2025,1764,Dry Van,Delayed,2370.16,3107.79,299.47,113
+SHP0009,Martin LLC,Houston,TX,New Orleans,LA,3/13/2025,3/13/2025,1674,Dry Van,Delayed,2102.96,2788.48,285.57,214
+SHP0010,Johnson and Sons,Greenville,SC,Knoxville,TN,7/16/2025,7/16/2025,317,Refrigerated,On Time,470.54,615.74,47.42,24
+SHP0011,Lopez-Hammond,Fort Smith,AR,Savannah,GA,7/29/2025,8/2/2025,247,Refrigerated,On Time,322.22,442.11,38.92,12
+SHP0012,"Duncan, Powers and Robinson",Hattiesburg,MS,Dallas,TX,7/20/2025,7/20/2025,1388,Flatbed,On Time,1688.89,2263.81,209.45,102
+SHP0013,Huffman PLC,Charleston,SC,Miami,FL,6/5/2025,6/10/2025,1648,Flatbed,Delayed,2645.88,3417.78,268.49,198
+SHP0014,"Haynes, Wilson and Lopez",Hattiesburg,MS,Raleigh,NC,4/22/2025,4/25/2025,983,Refrigerated,On Time,1760.27,2191.15,162.51,112
+SHP0015,Moore-Baker,Montgomery,AL,Memphis,TN,4/15/2025,4/21/2025,452,Refrigerated,On Time,615.36,836.00,68.26,46
+SHP0016,Charles-Fowler,New Orleans,LA,Miami,FL,6/16/2025,6/16/2025,803,Dry Van,On Time,1106.87,1353.78,111.50,110
+SHP0017,"Stewart, Adams and Martinez",Shreveport,LA,Atlanta,GA,3/3/2025,3/3/2025,1580,Flatbed,Delayed,2285.67,2996.84,260.02,112
+SHP0018,"Lee, Martinez and Hahn",Orlando,FL,Little Rock,AR,6/11/2025,6/11/2025,833,Dry Van,On Time,1013.40,1242.15,151.00,76
+SHP0019,Doyle Ltd,San Antonio,TX,Fayetteville,AR,3/15/2025,3/15/2025,1211,Dry Van,On Time,1713.23,2029.97,199.13,83
+SHP0020,"Johnson, Figueroa and Hall",Atlanta,GA,Charlotte,NC,4/8/2025,4/8/2025,1214,Flatbed,On Time,1887.36,2396.80,188.46,164
+SHP0021,"Gonzalez, Horton and Freeman",Knoxville,TN,Greenville,SC,5/20/2025,5/25/2025,1612,Flatbed,Delayed,2639.53,3482.87,292.74,149
+SHP0022,Davis-Olson,Atlanta,GA,Miami,FL,2/16/2025,2/16/2025,1889,Refrigerated,On Time,2970.01,4008.23,312.92,38
+SHP0023,Wood-Jimenez,Savannah,GA,Dallas,TX,4/7/2025,4/7/2025,1307,Dry Van,Delayed,1992.31,2563.34,202.24,139
+SHP0024,Miller-Greene,Little Rock,AR,Mobile,AL,6/16/2025,6/16/2025,1990,Dry Van,On Time,2890.20,3768.27,284.93,44
+SHP0025,Waters-Wise,Montgomery,AL,Baton Rouge,LA,7/15/2025,7/15/2025,1645,Dry Van,Cancelled,2265.72,2876.35,248.90,211
+SHP0026,Costa Ltd,Gulfport,MS,Nashville,TN,5/3/2025,5/3/2025,677,Dry Van,On Time,1083.61,1444.36,99.52,83
+SHP0027,"Barnes, Moore and Scott",Dallas,TX,Greensboro,NC,4/29/2025,4/29/2025,273,Flatbed,On Time,343.22,473.29,38.63,28
+SHP0028,"Horne, Hensley and Lucero",New Orleans,LA,Dallas,TX,4/30/2025,4/30/2025,1045,Dry Van,On Time,1314.75,1837.43,155.51,156
+SHP0029,"Smith, Simpson and Brown",San Antonio,TX,Jackson,MS,5/7/2025,5/7/2025,1067,Dry Van,Delayed,1329.55,1848.00,144.31,42
+SHP0030,Olsen PLC,Baton Rouge,LA,Jackson,MS,5/1/2025,5/1/2025,380,Dry Van,On Time,609.24,851.25,54.39,14
+SHP0031,"Fleming, Rivera and Massey",Memphis,TN,Miami,FL,8/4/2025,8/4/2025,983,Flatbed,On Time,1292.73,1522.64,172.17,87
+SHP0032,Cardenas-Ayers,Atlanta,GA,Montgomery,AL,2/27/2025,2/27/2025,1541,Refrigerated,Delayed,2455.20,3202.97,246.11,41
+SHP0033,"Jones, Torres and Thomas",Charleston,SC,Knoxville,TN,8/9/2025,8/9/2025,1060,Flatbed,On Time,1402.95,1797.47,167.71,113
+SHP0034,"Castaneda, Cole and Rogers",Fort Smith,AR,Gulfport,MS,3/24/2025,3/24/2025,1654,Dry Van,On Time,2377.51,2925.67,257.75,144
+SHP0035,Hubbard Group,Memphis,TN,Augusta,GA,4/12/2025,4/12/2025,1965,Flatbed,On Time,3406.76,4468.72,333.04,92
+SHP0036,Kirby and Sons,Little Rock,AR,Dallas,TX,6/12/2025,6/12/2025,1071,Dry Van,Delayed,1741.63,2156.30,187.11,79
+SHP0037,Allen Inc,Charleston,SC,Fort Smith,AR,6/21/2025,6/21/2025,344,Flatbed,On Time,572.14,750.69,58.83,28
+SHP0038,"Williams, Andersen and Lozano",New Orleans,LA,Augusta,GA,2/19/2025,2/19/2025,1679,Dry Van,On Time,2126.10,2474.78,298.79,120
+SHP0039,Clark-Harper,Savannah,GA,Charlotte,NC,3/15/2025,3/15/2025,794,Flatbed,Delayed,1109.58,1322.45,143.43,43
+SHP0040,Andrews-Lopez,Columbia,SC,Augusta,GA,8/3/2025,8/3/2025,1303,Flatbed,On Time,2311.58,3062.07,220.89,38
+SHP0041,Carter-Anderson,New Orleans,LA,Fort Smith,AR,3/5/2025,3/5/2025,1608,Flatbed,On Time,2555.94,3127.97,245.44,223
+SHP0042,King-Jones,New Orleans,LA,Columbia,SC,6/14/2025,6/14/2025,717,Refrigerated,On Time,1290.56,1720.19,122.36,66
+SHP0043,"Hunter, Becker and Medina",Birmingham,AL,Shreveport,LA,8/11/2025,8/11/2025,787,Flatbed,Delayed,1019.87,1337.38,125.93,107
+SHP0044,"Friedman, Rivera and Mora",Fayetteville,AR,New Orleans,LA,3/24/2025,3/24/2025,509,Flatbed,Delayed,811.71,958.26,77.45,70
+SHP0045,Smith LLC,Atlanta,GA,Little Rock,AR,4/2/2025,4/2/2025,1678,Refrigerated,On Time,2133.80,2799.17,294.38,209
+SHP0046,Hill Ltd,Tampa,FL,Dallas,TX,7/26/2025,7/26/2025,1556,Flatbed,On Time,2447.14,3376.73,234.85,210
+SHP0047,Clarke Inc,Little Rock,AR,Memphis,TN,8/11/2025,8/11/2025,644,Refrigerated,On Time,875.89,1080.13,108.33,57
+SHP0048,"Castro, Medina and Edwards",Shreveport,LA,Nashville,TN,3/2/2025,3/2/2025,1854,Flatbed,On Time,2667.22,3544.39,313.64,190
+SHP0049,Chandler-Serrano,Dallas,TX,Nashville,TN,2/15/2025,2/15/2025,1896,Refrigerated,On Time,3001.25,4140.79,328.88,50
+SHP0050,Leonard Ltd,Tampa,FL,Little Rock,AR,6/30/2025,6/30/2025,480,Refrigerated,On Time,666.43,848.57,80.19,59
+SHP0051,Stephens-Williams,Charleston,SC,Atlanta,GA,8/10/2025,8/10/2025,738,Dry Van,Delayed,944.63,1119.92,99.43,20
+SHP0052,Thompson PLC,Baton Rouge,LA,Little Rock,AR,4/9/2025,4/13/2025,1847,Flatbed,On Time,3145.09,4036.80,250.33,40
+SHP0053,"Gonzalez, Jackson and Brown",Fort Smith,AR,Orlando,FL,5/25/2025,5/25/2025,987,Dry Van,On Time,1344.08,1865.09,147.36,125
+SHP0054,"Jones, Allen and Thompson",Fort Smith,AR,Greenville,SC,6/6/2025,6/6/2025,1840,Flatbed,On Time,2431.87,3354.31,311.22,125
+SHP0055,Rose-Miller,Nashville,TN,San Antonio,TX,5/18/2025,5/18/2025,801,Dry Van,On Time,1322.38,1828.28,137.75,104
+SHP0056,Owens-Black,San Antonio,TX,New Orleans,LA,5/28/2025,5/28/2025,1832,Refrigerated,On Time,3197.42,3863.73,256.89,159
+SHP0057,Ritter LLC,Montgomery,AL,Nashville,TN,6/2/2025,6/2/2025,1231,Dry Van,On Time,2199.75,2780.28,212.20,171
+SHP0058,Kelly and Sons,Greensboro,NC,Memphis,TN,6/12/2025,6/12/2025,1883,Flatbed,On Time,3375.30,4439.97,269.46,165
+SHP0059,"Vincent, Dennis and Hubbard",Gulfport,MS,San Antonio,TX,4/29/2025,4/29/2025,995,Dry Van,On Time,1446.79,1829.55,145.23,36
+SHP0060,"Bishop, Hicks and Patel",Miami,FL,Nashville,TN,5/1/2025,5/1/2025,553,Dry Van,On Time,888.66,1199.94,100.00,75
+SHP0061,Garcia PLC,Charleston,SC,Montgomery,AL,2/13/2025,2/13/2025,1795,Dry Van,Cancelled,2557.75,3393.88,324.32,209
+SHP0062,Taylor-Elliott,New Orleans,LA,Birmingham,AL,5/28/2025,5/28/2025,1317,Refrigerated,Cancelled,2271.65,2653.55,194.06,92
+SHP0063,"Buckley, Nelson and Jones",Gulfport,MS,Raleigh,NC,6/21/2025,6/21/2025,404,Dry Van,On Time,657.45,821.92,56.04,26
+SHP0064,Peters-Reilly,Greensboro,NC,Fayetteville,AR,6/20/2025,6/23/2025,1578,Refrigerated,On Time,2835.83,3431.94,217.25,158
+SHP0065,Brooks-Russo,Memphis,TN,Orlando,FL,6/4/2025,6/4/2025,1141,Dry Van,On Time,1412.32,1949.37,159.47,48
+SHP0066,"Mclaughlin, Walker and Zuniga",Montgomery,AL,Hattiesburg,MS,5/15/2025,5/15/2025,432,Refrigerated,Cancelled,570.58,756.64,58.00,43
+SHP0067,Taylor-Ward,Augusta,GA,Shreveport,LA,7/6/2025,7/6/2025,1043,Refrigerated,On Time,1334.99,1631.61,167.24,103
+SHP0068,Frazier Group,Fort Smith,AR,Augusta,GA,7/13/2025,7/13/2025,980,Dry Van,On Time,1427.97,1930.29,134.66,46
+SHP0069,Gray Group,Little Rock,AR,Charleston,SC,6/3/2025,6/3/2025,1609,Refrigerated,On Time,2369.45,3283.09,266.48,108
+SHP0070,"Thompson, Young and Conway",Augusta,GA,Dallas,TX,4/13/2025,4/13/2025,1926,Dry Van,Delayed,2896.57,3582.73,265.17,117
+SHP0071,Phillips-King,Shreveport,LA,Gulfport,MS,3/7/2025,3/13/2025,1548,Refrigerated,On Time,2748.56,3466.93,225.95,141
+SHP0072,"Douglas, Rowe and Jackson",Baton Rouge,LA,Raleigh,NC,4/6/2025,4/6/2025,568,Dry Van,On Time,789.23,937.45,93.03,38
+SHP0073,Carlson and Sons,Houston,TX,Columbia,SC,6/6/2025,6/10/2025,1982,Dry Van,On Time,2889.60,3578.74,271.36,148
+SHP0074,Gonzalez-Phillips,Little Rock,AR,New Orleans,LA,6/20/2025,6/20/2025,611,Dry Van,Delayed,989.20,1167.54,82.01,49
+SHP0075,"Robertson, Brown and Flores",Atlanta,GA,Knoxville,TN,4/27/2025,4/27/2025,1215,Flatbed,On Time,1550.00,2056.16,209.78,41
+SHP0076,Keller and Sons,New Orleans,LA,Miami,FL,5/17/2025,5/17/2025,613,Flatbed,On Time,788.84,941.61,104.73,70
+SHP0077,Walker and Sons,Savannah,GA,Baton Rouge,LA,3/21/2025,3/21/2025,1896,Flatbed,On Time,3222.15,4046.26,334.29,260
+SHP0078,Miller-Carr,Columbia,SC,San Antonio,TX,6/3/2025,6/3/2025,493,Refrigerated,Delayed,785.93,964.19,66.15,50
+SHP0079,Vargas-Zimmerman,Dallas,TX,Greenville,SC,7/7/2025,7/10/2025,726,Refrigerated,On Time,1201.08,1657.76,102.92,75
+SHP0080,"Hudson, Gamble and Watkins",Savannah,GA,New Orleans,LA,8/6/2025,8/9/2025,1702,Flatbed,On Time,2492.83,2967.86,256.38,105
+SHP0081,Rodriguez and Sons,Memphis,TN,Fayetteville,AR,3/13/2025,3/13/2025,1283,Flatbed,On Time,1645.12,2102.35,197.44,72
+SHP0082,"Bell, Aguilar and Ross",Charlotte,NC,Columbia,SC,4/14/2025,4/18/2025,362,Dry Van,On Time,614.70,771.16,51.87,7
+SHP0083,Hughes and Sons,Birmingham,AL,Houston,TX,6/21/2025,6/21/2025,1651,Dry Van,On Time,2555.96,3097.32,223.27,83
+SHP0084,Thomas-Jones,Nashville,TN,Greensboro,NC,8/6/2025,8/6/2025,476,Refrigerated,On Time,811.51,1093.29,67.06,18
+SHP0085,"Wu, Curtis and Young",Montgomery,AL,Atlanta,GA,3/24/2025,3/24/2025,165,Dry Van,On Time,222.96,267.07,26.04,21
+SHP0086,"Vazquez, Mooney and Mercado",Miami,FL,Jackson,MS,3/12/2025,3/12/2025,1822,Flatbed,On Time,3153.37,3695.39,251.57,113
+SHP0087,Perez PLC,Baton Rouge,LA,Dallas,TX,6/9/2025,6/9/2025,1783,Flatbed,On Time,2561.55,3367.70,314.51,195
+SHP0088,Williams LLC,Raleigh,NC,Birmingham,AL,7/18/2025,7/18/2025,1318,Dry Van,On Time,2267.44,2865.67,230.26,104
+SHP0089,Hoffman Ltd,Birmingham,AL,Columbia,SC,6/7/2025,6/9/2025,961,Flatbed,On Time,1270.32,1734.60,130.28,132
+SHP0090,"Allen, Ryan and Jacobs",New Orleans,LA,Hattiesburg,MS,6/22/2025,6/22/2025,827,Flatbed,On Time,1336.28,1563.30,138.89,61
+SHP0091,Pitts-Jackson,Fort Smith,AR,Knoxville,TN,2/26/2025,3/2/2025,1874,Dry Van,On Time,2822.29,3690.16,298.80,86
+SHP0092,Ritter LLC,Shreveport,LA,Charlotte,NC,3/2/2025,3/2/2025,544,Refrigerated,On Time,875.31,1042.58,76.82,18
+SHP0093,Walton Ltd,San Antonio,TX,New Orleans,LA,5/16/2025,5/16/2025,1877,Dry Van,On Time,3278.33,4162.62,253.07,46
+SHP0094,"Cunningham, Anderson and Palmer",Orlando,FL,Birmingham,AL,5/20/2025,5/20/2025,1341,Refrigerated,Delayed,2290.83,3036.58,184.16,177
+SHP0095,Kirk-Medina,New Orleans,LA,Little Rock,AR,6/7/2025,6/7/2025,277,Flatbed,Delayed,474.26,595.49,43.33,9
+SHP0096,Nelson-George,Knoxville,TN,Charlotte,NC,6/3/2025,6/3/2025,599,Dry Van,On Time,970.17,1210.96,96.68,44
+SHP0097,Sanchez-Kelly,Nashville,TN,Shreveport,LA,7/7/2025,7/7/2025,1253,Dry Van,Delayed,2123.31,2772.55,174.87,162
+SHP0098,"Thompson, Valentine and Mendez",New Orleans,LA,Tampa,FL,8/4/2025,8/4/2025,364,Flatbed,On Time,484.82,632.25,59.86,42
+SHP0099,"Koch, Cummings and Sellers",Nashville,TN,San Antonio,TX,4/12/2025,4/12/2025,1954,Refrigerated,Delayed,2374.62,2858.85,289.43,269
+SHP0100,"Martin, Dalton and Lane",Nashville,TN,Birmingham,AL,7/18/2025,7/18/2025,1646,Refrigerated,On Time,2870.12,3716.55,220.25,66
+SHP0101,"Garcia, Reyes and Myers",Birmingham,AL,Charleston,SC,4/12/2025,4/12/2025,1851,Flatbed,On Time,2922.83,3984.18,308.51,142
+SHP0102,"Baker, Conley and Cruz",Fort Smith,AR,Orlando,FL,5/2/2025,5/2/2025,1685,Dry Van,Delayed,2042.68,2533.44,274.70,94
+SHP0103,"Estrada, Garcia and Vance",Houston,TX,Baton Rouge,LA,7/12/2025,7/12/2025,1972,Dry Van,On Time,2911.22,3833.72,292.37,217
+SHP0104,"Perez, Carter and Lutz",Fort Smith,AR,Miami,FL,6/28/2025,6/28/2025,998,Refrigerated,Delayed,1478.64,2036.17,165.53,26
+SHP0105,Vang LLC,Charleston,SC,Fayetteville,AR,6/10/2025,6/10/2025,1738,Refrigerated,On Time,2999.61,3495.13,315.67,227
+SHP0106,Wilson-Johnson,Tampa,FL,Nashville,TN,7/26/2025,7/26/2025,1730,Dry Van,On Time,2291.09,2964.90,259.44,111
+SHP0107,"Lopez, Smith and Brown",Raleigh,NC,Columbia,SC,3/10/2025,3/10/2025,1116,Refrigerated,On Time,1608.72,2100.42,156.63,166
+SHP0108,Jimenez PLC,Miami,FL,Shreveport,LA,4/30/2025,4/30/2025,208,Flatbed,On Time,272.53,358.57,35.01,20
+SHP0109,Wood-Powers,Miami,FL,Greensboro,NC,4/26/2025,4/26/2025,311,Dry Van,On Time,402.72,477.66,45.12,9
+SHP0110,Brown Group,Birmingham,AL,Little Rock,AR,8/4/2025,8/4/2025,208,Flatbed,On Time,356.35,447.90,29.28,30
+SHP0111,Werner-White,Augusta,GA,Knoxville,TN,3/8/2025,3/8/2025,1129,Flatbed,On Time,1739.14,2033.50,155.15,67
+SHP0112,Anderson Ltd,Charleston,SC,Augusta,GA,6/4/2025,6/4/2025,1509,Flatbed,On Time,2602.64,3308.62,231.86,132
+SHP0113,"Bryant, Cruz and Lee",Atlanta,GA,Shreveport,LA,7/17/2025,7/17/2025,553,Refrigerated,On Time,937.41,1285.13,87.49,27
+SHP0114,Pennington Ltd,Atlanta,GA,Nashville,TN,4/2/2025,4/2/2025,1425,Flatbed,On Time,2042.83,2379.50,191.32,156
+SHP0115,Aguirre-Sullivan,Montgomery,AL,New Orleans,LA,7/14/2025,7/14/2025,1397,Flatbed,On Time,1782.34,2463.97,236.96,58
+SHP0116,"Mcdonald, Patel and Nicholson",Dallas,TX,Orlando,FL,6/3/2025,6/3/2025,1840,Dry Van,Delayed,2939.21,3778.84,273.62,95
+SHP0117,Tanner-Richardson,Tampa,FL,Nashville,TN,7/2/2025,7/2/2025,1309,Flatbed,On Time,2081.15,2749.23,183.09,68
+SHP0118,Stevens-Martin,Dallas,TX,Birmingham,AL,5/22/2025,5/22/2025,1632,Flatbed,On Time,2040.52,2605.22,253.16,62
+SHP0119,"Campbell, Arnold and Powell",New Orleans,LA,Mobile,AL,3/17/2025,3/17/2025,1382,Flatbed,On Time,2452.73,3350.79,198.22,151
+SHP0120,"Boyd, Miller and Wilson",Memphis,TN,Tampa,FL,3/21/2025,3/21/2025,398,Refrigerated,Delayed,509.57,588.89,57.28,13
+SHP0121,Bates Inc,Fayetteville,AR,Savannah,GA,6/29/2025,6/29/2025,1635,Dry Van,On Time,2028.88,2549.67,233.15,36
+SHP0122,Howard Group,Shreveport,LA,Little Rock,AR,5/18/2025,5/18/2025,607,Dry Van,On Time,839.45,1011.74,85.65,33
+SHP0123,Garrett Group,Orlando,FL,Charlotte,NC,6/14/2025,6/14/2025,1571,Dry Van,On Time,2532.60,3014.78,236.11,58
+SHP0124,"Molina, Wheeler and Ferrell",Montgomery,AL,Charlotte,NC,3/3/2025,3/3/2025,999,Refrigerated,Cancelled,1629.80,2170.67,135.14,48
+SHP0125,"Sullivan, Anderson and Williams",Miami,FL,Gulfport,MS,6/1/2025,6/1/2025,449,Flatbed,On Time,706.42,889.57,61.41,49
+SHP0126,Brown-Banks,Jackson,MS,Charlotte,NC,5/21/2025,5/21/2025,484,Refrigerated,On Time,732.65,945.81,84.56,56
+SHP0127,Oconnor PLC,Greenville,SC,Fayetteville,AR,3/7/2025,3/7/2025,610,Refrigerated,On Time,808.19,1012.94,110.80,21
+SHP0128,Mueller Group,Jackson,MS,Memphis,TN,5/29/2025,5/29/2025,101,Flatbed,On Time,123.02,160.77,13.97,9
+SHP0129,Barnes Group,Memphis,TN,Fort Smith,AR,3/24/2025,3/26/2025,529,Dry Van,On Time,942.27,1122.80,89.28,51
+SHP0130,Phillips Group,Dallas,TX,Jackson,MS,3/14/2025,3/14/2025,1497,Dry Van,Delayed,2260.80,2865.44,259.19,157
+SHP0131,Gardner-Gould,Greensboro,NC,Orlando,FL,5/29/2025,5/29/2025,1077,Dry Van,On Time,1440.94,1881.25,165.77,148
+SHP0132,"Terry, Williams and Patterson",Fort Smith,AR,Memphis,TN,4/28/2025,4/28/2025,790,Flatbed,Delayed,1143.39,1529.13,115.65,22
+SHP0133,Gardner-Martinez,Raleigh,NC,Mobile,AL,6/3/2025,6/3/2025,990,Refrigerated,On Time,1477.62,1727.99,140.64,107
+SHP0134,"Petersen, Jacobs and Valentine",Greensboro,NC,Greenville,SC,7/17/2025,7/17/2025,924,Refrigerated,On Time,1453.54,1878.70,129.34,113
+SHP0135,Williams Group,Greensboro,NC,San Antonio,TX,7/13/2025,7/13/2025,1628,Refrigerated,On Time,2790.60,3471.71,242.77,92
+SHP0136,Kidd and Sons,Savannah,GA,Little Rock,AR,8/10/2025,8/10/2025,1345,Dry Van,On Time,2320.72,3188.31,200.65,180
+SHP0137,Lozano-Reed,Greenville,SC,Raleigh,NC,2/24/2025,2/24/2025,829,Refrigerated,Delayed,1012.36,1289.44,133.62,111
+SHP0138,"Miller, Johnson and Daniels",Shreveport,LA,Augusta,GA,5/28/2025,6/1/2025,1145,Refrigerated,Delayed,1781.06,2222.50,158.45,147
+SHP0139,Garcia-Gilbert,Dallas,TX,Fort Smith,AR,8/6/2025,8/6/2025,1164,Flatbed,On Time,1561.34,1837.05,190.53,143
+SHP0140,Friedman Group,Greenville,SC,Raleigh,NC,5/6/2025,5/6/2025,510,Dry Van,Delayed,704.38,923.73,87.64,67
+SHP0141,Smith-Scott,New Orleans,LA,Greenville,SC,4/20/2025,4/25/2025,1449,Dry Van,Cancelled,1883.99,2351.33,219.81,196
+SHP0142,"Solomon, Kim and Savage",Dallas,TX,Jackson,MS,3/3/2025,3/3/2025,734,Refrigerated,On Time,925.82,1072.45,120.37,63
+SHP0143,"Morris, Perez and Boyle",Orlando,FL,Nashville,TN,4/17/2025,4/17/2025,1190,Flatbed,On Time,1497.54,1758.55,191.81,74
+SHP0144,Murray Ltd,Montgomery,AL,Charleston,SC,5/12/2025,5/12/2025,681,Dry Van,On Time,903.86,1147.27,123.25,21
+SHP0145,Ponce-Hamilton,Tampa,FL,Augusta,GA,5/31/2025,5/31/2025,1590,Refrigerated,On Time,2674.42,3367.19,284.39,62
+SHP0146,Parker-Barrett,Montgomery,AL,Fayetteville,AR,5/15/2025,5/15/2025,872,Refrigerated,On Time,1103.57,1367.22,143.07,32
+SHP0147,"Wilkinson, Olson and Gonzalez",Birmingham,AL,Nashville,TN,8/2/2025,8/2/2025,1280,Dry Van,On Time,1880.89,2391.85,174.97,69
+SHP0148,Gates LLC,Columbia,SC,Tampa,FL,3/12/2025,3/12/2025,146,Dry Van,On Time,247.24,334.66,20.01,12
+SHP0149,"Pierce, Mullins and Skinner",Little Rock,AR,Gulfport,MS,7/22/2025,7/22/2025,1006,Refrigerated,On Time,1276.28,1509.59,167.31,142
+SHP0150,Johnson-Smith,Gulfport,MS,Birmingham,AL,5/9/2025,5/9/2025,1470,Dry Van,On Time,2197.78,2550.60,219.32,58
+SHP0151,Martinez and Sons,Tampa,FL,Columbia,SC,5/3/2025,5/3/2025,1173,Flatbed,On Time,1856.46,2323.81,156.59,38
+SHP0152,"Hunter, Arroyo and Herrera",Charleston,SC,Tampa,FL,6/2/2025,6/2/2025,1198,Dry Van,Delayed,1512.88,1757.55,196.06,33
+SHP0153,"Miller, Bailey and Pennington",Raleigh,NC,Hattiesburg,MS,4/24/2025,4/24/2025,1209,Refrigerated,On Time,2171.50,2572.07,165.86,164
+SHP0154,"Poole, Mejia and Jones",Augusta,GA,Jackson,MS,3/23/2025,3/23/2025,910,Refrigerated,On Time,1448.28,1842.12,135.15,74
+SHP0155,"Burch, Gomez and Stone",Hattiesburg,MS,Raleigh,NC,5/19/2025,5/19/2025,1575,Refrigerated,Cancelled,2573.74,3545.64,271.73,220
+SHP0156,Green-Owen,Little Rock,AR,Gulfport,MS,3/13/2025,3/13/2025,268,Flatbed,Delayed,396.71,545.96,39.90,14
+SHP0157,Keller-Roberts,Hattiesburg,MS,Miami,FL,4/22/2025,4/22/2025,1178,Refrigerated,On Time,1990.32,2776.07,160.51,122
+SHP0158,Rodriguez LLC,Shreveport,LA,Fort Smith,AR,5/5/2025,5/5/2025,746,Refrigerated,On Time,905.55,1107.52,106.55,31
+SHP0159,Henderson-Abbott,Atlanta,GA,Columbia,SC,5/9/2025,5/9/2025,346,Dry Van,Delayed,620.85,795.73,48.91,10
+SHP0160,"Brennan, Burch and Nichols",Montgomery,AL,Augusta,GA,5/21/2025,5/21/2025,477,Refrigerated,On Time,807.58,940.48,71.69,51
+SHP0161,Jones LLC,Knoxville,TN,Raleigh,NC,4/21/2025,4/21/2025,1657,Dry Van,On Time,2638.02,3617.29,246.53,208
+SHP0162,Sellers-Guerrero,Charleston,SC,Atlanta,GA,5/12/2025,5/12/2025,1623,Refrigerated,On Time,2644.10,3546.56,274.83,190
+SHP0163,Bradford Group,Augusta,GA,Shreveport,LA,5/3/2025,5/3/2025,1112,Refrigerated,Cancelled,1403.55,1947.65,162.07,32
+SHP0164,Salas-Bell,Hattiesburg,MS,Columbia,SC,3/21/2025,3/21/2025,127,Dry Van,On Time,183.64,241.50,17.93,4
+SHP0165,"Gonzalez, Payne and Price",Orlando,FL,Mobile,AL,6/26/2025,6/26/2025,532,Refrigerated,On Time,851.85,1189.89,75.18,36
+SHP0166,"Lopez, Thomas and Davis",Gulfport,MS,Charlotte,NC,3/13/2025,3/13/2025,1092,Flatbed,On Time,1943.50,2404.00,195.22,61
+SHP0167,"Lester, Grant and Briggs",Greenville,SC,Savannah,GA,5/4/2025,5/4/2025,919,Dry Van,On Time,1107.79,1321.55,130.98,39
+SHP0168,Bailey-Sparks,Greenville,SC,Greensboro,NC,2/24/2025,2/26/2025,354,Flatbed,On Time,628.17,801.93,60.15,33
+SHP0169,Berry-Weber,Baton Rouge,LA,Dallas,TX,2/21/2025,2/21/2025,1493,Dry Van,On Time,2477.39,2925.18,236.44,117
+SHP0170,"Fernandez, Smith and Esparza",Nashville,TN,Montgomery,AL,6/26/2025,6/29/2025,1146,Flatbed,On Time,1588.42,1917.84,163.03,128
+SHP0171,"Peterson, Clark and Kane",Mobile,AL,Tampa,FL,6/11/2025,6/11/2025,1985,Dry Van,Delayed,2578.00,3458.96,276.59,130
+SHP0172,Crane-Green,Birmingham,AL,Dallas,TX,5/29/2025,5/29/2025,779,Flatbed,On Time,1332.82,1654.23,112.89,46
+SHP0173,"Reynolds, Mccarty and Mann",Jackson,MS,Baton Rouge,LA,5/25/2025,5/25/2025,1616,Dry Van,On Time,2202.93,3067.85,267.81,133
+SHP0174,"Stafford, Diaz and Morales",Columbia,SC,San Antonio,TX,5/3/2025,5/3/2025,1963,Refrigerated,On Time,2665.70,3560.81,334.30,235
+SHP0175,Estrada-Moody,Hattiesburg,MS,New Orleans,LA,7/16/2025,7/16/2025,812,Dry Van,On Time,1149.74,1449.74,117.69,78
+SHP0176,Johnson-Evans,Augusta,GA,Birmingham,AL,2/13/2025,2/13/2025,556,Refrigerated,On Time,671.13,909.59,81.57,28
+SHP0177,Erickson Inc,Houston,TX,Greensboro,NC,4/13/2025,4/16/2025,1707,Flatbed,On Time,2969.80,3883.22,288.76,247
+SHP0178,Fisher and Sons,Jackson,MS,Orlando,FL,4/6/2025,4/6/2025,1761,Refrigerated,On Time,3047.95,4119.80,278.24,62
+SHP0179,Miller Inc,Savannah,GA,Gulfport,MS,6/1/2025,6/1/2025,946,Flatbed,On Time,1387.31,1840.62,138.30,52
+SHP0180,Nelson LLC,Savannah,GA,Little Rock,AR,4/15/2025,4/15/2025,492,Flatbed,Delayed,799.25,1017.74,68.16,24
+SHP0181,"Gonzales, Smith and Johnson",Fayetteville,AR,Atlanta,GA,5/3/2025,5/3/2025,1727,Dry Van,On Time,2619.10,3491.29,231.91,193
+SHP0182,Kent Inc,Memphis,TN,Shreveport,LA,7/18/2025,7/18/2025,1374,Dry Van,On Time,1990.60,2301.85,220.11,145
+SHP0183,Mathews-Bender,Miami,FL,Atlanta,GA,5/4/2025,5/4/2025,1197,Refrigerated,On Time,1972.34,2298.47,177.03,166
+SHP0184,Pierce PLC,Montgomery,AL,Houston,TX,6/17/2025,6/17/2025,1442,Dry Van,Delayed,1998.15,2609.74,244.56,105
+SHP0185,Page-Morgan,Gulfport,MS,Greensboro,NC,3/27/2025,3/27/2025,277,Dry Van,On Time,474.00,625.89,37.96,34
+SHP0186,"Reeves, Coleman and Barnes",Little Rock,AR,Raleigh,NC,4/11/2025,4/11/2025,1926,Dry Van,Delayed,2662.39,3544.28,304.78,252
+SHP0187,Adams-Burgess,Baton Rouge,LA,Memphis,TN,5/30/2025,5/30/2025,996,Dry Van,On Time,1640.12,2127.18,158.90,36
+SHP0188,Jenkins Group,Savannah,GA,Jackson,MS,6/13/2025,6/13/2025,310,Flatbed,Delayed,518.24,619.13,43.17,31
+SHP0189,Ware-Welch,Charleston,SC,Gulfport,MS,2/16/2025,2/16/2025,353,Dry Van,On Time,552.57,721.53,51.67,12
+SHP0190,Mcintyre Group,Charleston,SC,Little Rock,AR,5/16/2025,5/16/2025,295,Flatbed,On Time,484.51,648.16,44.58,30
+SHP0191,Johnson PLC,Charleston,SC,Charlotte,NC,5/22/2025,5/22/2025,1668,Refrigerated,On Time,2256.41,2912.74,267.34,130
+SHP0192,"Mosley, Cuevas and Hughes",Tampa,FL,Greensboro,NC,5/21/2025,5/21/2025,585,Refrigerated,On Time,987.63,1363.38,88.51,19
+SHP0193,"Martinez, Simmons and Moore",Houston,TX,Shreveport,LA,5/25/2025,5/25/2025,1643,Dry Van,On Time,2773.93,3690.52,255.24,79
+SHP0194,"Martin, Boyd and Gill",Charlotte,NC,San Antonio,TX,3/25/2025,3/25/2025,1132,Refrigerated,On Time,1622.85,2144.57,160.50,63
+SHP0195,Shaffer-Collins,Montgomery,AL,Orlando,FL,4/11/2025,4/11/2025,298,Flatbed,On Time,525.50,728.67,46.46,29
+SHP0196,Heath Inc,Charlotte,NC,Shreveport,LA,3/26/2025,3/26/2025,1084,Refrigerated,Delayed,1832.46,2311.55,172.85,56
+SHP0197,Hernandez Ltd,New Orleans,LA,Fort Smith,AR,2/28/2025,3/2/2025,489,Refrigerated,On Time,657.31,773.42,68.65,46
+SHP0198,Robinson-Taylor,Charleston,SC,Baton Rouge,LA,3/15/2025,3/15/2025,265,Flatbed,On Time,445.64,579.05,39.42,22
+SHP0199,Humphrey PLC,Fayetteville,AR,Houston,TX,7/31/2025,7/31/2025,420,Refrigerated,On Time,743.62,877.61,63.33,39
+SHP0200,"Carrillo, Brown and Orozco",Nashville,TN,Hattiesburg,MS,4/5/2025,4/5/2025,1637,Dry Van,Delayed,2075.28,2609.82,235.61,157
+SHP0201,Chavez-Mitchell,Hattiesburg,MS,Charleston,SC,5/6/2025,5/6/2025,1951,Flatbed,Delayed,2692.36,3455.12,286.64,115
+SHP0202,"Phillips, Garcia and Carson",Savannah,GA,Orlando,FL,4/11/2025,4/11/2025,341,Dry Van,On Time,558.40,659.08,50.93,48
+SHP0203,Lester PLC,Orlando,FL,Little Rock,AR,6/5/2025,6/5/2025,783,Flatbed,On Time,997.38,1275.07,133.08,20
+SHP0204,Jones-Wilson,Atlanta,GA,Charleston,SC,6/25/2025,6/25/2025,1740,Flatbed,On Time,2924.49,3668.31,303.99,69
+SHP0205,"Walker, Yang and Gregory",Little Rock,AR,Jackson,MS,5/30/2025,5/30/2025,1651,Refrigerated,Cancelled,2754.87,3696.02,291.80,156
+SHP0206,Hill-Smith,Orlando,FL,Houston,TX,2/25/2025,2/27/2025,1877,Refrigerated,Delayed,2397.00,3343.75,258.37,245
+SHP0207,Young-Obrien,Miami,FL,Baton Rouge,LA,2/25/2025,2/25/2025,1589,Refrigerated,On Time,2302.01,2686.79,261.88,195
+SHP0208,"Matthews, Blevins and Smith",Fayetteville,AR,Houston,TX,7/28/2025,7/30/2025,591,Dry Van,On Time,717.09,833.64,89.14,28
+SHP0209,Buck-Shaw,Fayetteville,AR,Shreveport,LA,8/8/2025,8/8/2025,1634,Dry Van,On Time,2168.40,2797.38,261.63,160
+SHP0210,Palmer PLC,Tampa,FL,Atlanta,GA,5/17/2025,5/17/2025,1656,Flatbed,On Time,2958.37,3402.62,253.50,180
+SHP0211,"Davis, Lopez and Barker",New Orleans,LA,Savannah,GA,7/29/2025,8/3/2025,1002,Flatbed,On Time,1676.45,2110.39,139.08,136
+SHP0212,"Combs, Pace and Jackson",Knoxville,TN,Greenville,SC,6/13/2025,6/13/2025,1335,Dry Van,Delayed,2308.90,2881.43,190.86,105
+SHP0213,Wood Inc,Little Rock,AR,Gulfport,MS,4/13/2025,4/13/2025,1747,Dry Van,Cancelled,3005.08,4106.10,270.52,75
+SHP0214,"Bernard, Collins and Perkins",Augusta,GA,Miami,FL,6/3/2025,6/3/2025,1971,Refrigerated,Delayed,3140.96,4152.55,266.79,295
+SHP0215,"Golden, Shannon and Johnson",Augusta,GA,Orlando,FL,5/2/2025,5/2/2025,774,Refrigerated,On Time,1367.83,1770.60,112.95,102
+SHP0216,Torres PLC,Augusta,GA,Memphis,TN,5/15/2025,5/15/2025,1952,Refrigerated,Delayed,2720.62,3438.62,286.89,280
+SHP0217,Barron-Hopkins,Augusta,GA,Charleston,SC,6/19/2025,6/19/2025,1487,Dry Van,Delayed,2330.40,2992.07,232.56,192
+SHP0218,"Pham, White and Fowler",Savannah,GA,Baton Rouge,LA,7/28/2025,7/28/2025,832,Dry Van,On Time,1020.90,1360.70,116.31,30
+SHP0219,Burgess and Sons,Nashville,TN,Orlando,FL,4/29/2025,4/29/2025,140,Refrigerated,On Time,187.42,240.05,23.61,20
+SHP0220,Davis-Stewart,Augusta,GA,Knoxville,TN,4/24/2025,4/24/2025,1407,Dry Van,On Time,2247.94,2987.47,218.69,65
+SHP0221,Howard-Long,Greenville,SC,Charlotte,NC,2/25/2025,2/25/2025,1129,Dry Van,Delayed,1501.87,1954.86,166.59,110
+SHP0222,Ward-Taylor,Columbia,SC,Charlotte,NC,3/9/2025,3/9/2025,1994,Dry Van,On Time,2498.44,3248.88,290.19,206
+SHP0223,Lucas-Roberts,Greensboro,NC,Jackson,MS,4/23/2025,4/23/2025,629,Flatbed,On Time,1090.30,1370.40,93.56,31
+SHP0224,"Cruz, Patterson and Mccormick",Tampa,FL,Fayetteville,AR,4/29/2025,4/29/2025,1020,Flatbed,On Time,1292.06,1711.33,150.62,63
+SHP0225,"Miranda, Castillo and Ferrell",Jackson,MS,Savannah,GA,5/4/2025,5/7/2025,1352,Refrigerated,Delayed,1873.23,2456.95,230.96,103
+SHP0226,Hill-Bennett,Augusta,GA,Fayetteville,AR,7/4/2025,7/4/2025,1179,Refrigerated,On Time,1523.30,2042.28,194.62,155
+SHP0227,Khan Inc,Mobile,AL,Columbia,SC,4/12/2025,4/16/2025,817,Refrigerated,On Time,1346.50,1588.02,142.41,102
+SHP0228,Browning-Chavez,Miami,FL,Memphis,TN,7/19/2025,7/19/2025,1293,Flatbed,On Time,1893.08,2515.09,215.50,70
+SHP0229,"Dominguez, Walker and Davis",New Orleans,LA,Tampa,FL,2/28/2025,2/28/2025,674,Dry Van,On Time,867.24,1128.81,94.09,76
+SHP0230,"Thomas, Edwards and Hodges",New Orleans,LA,Jackson,MS,6/19/2025,6/19/2025,374,Flatbed,Delayed,552.83,643.69,59.97,20
+SHP0231,Moore and Sons,Jackson,MS,Knoxville,TN,2/24/2025,2/24/2025,1569,Dry Van,On Time,2670.65,3701.94,236.92,222
+SHP0232,Edwards-Nichols,San Antonio,TX,Greensboro,NC,4/4/2025,4/4/2025,1022,Dry Van,On Time,1639.05,2227.32,174.86,121
+SHP0233,Henry LLC,Fayetteville,AR,Augusta,GA,5/3/2025,5/3/2025,309,Dry Van,On Time,396.39,553.96,47.00,23
+SHP0234,Garza-Mathis,Nashville,TN,Fayetteville,AR,5/9/2025,5/9/2025,403,Flatbed,On Time,583.49,773.55,71.58,28
+SHP0235,Mercer-Medina,Charlotte,NC,Greenville,SC,6/23/2025,6/23/2025,110,Flatbed,On Time,170.77,227.50,18.41,15
+SHP0236,"Jones, Thompson and Wheeler",Jackson,MS,Nashville,TN,4/22/2025,4/22/2025,1348,Dry Van,On Time,2002.31,2674.84,192.10,172
+SHP0237,"Freeman, Cordova and Gomez",Knoxville,TN,San Antonio,TX,5/12/2025,5/12/2025,1177,Refrigerated,On Time,1760.12,2338.34,163.87,167
+SHP0238,Vasquez-Sanford,Atlanta,GA,Tampa,FL,3/28/2025,3/28/2025,1521,Dry Van,Delayed,1881.37,2430.86,243.06,67
+SHP0239,Koch-Rivera,Atlanta,GA,Charlotte,NC,5/29/2025,6/3/2025,211,Dry Van,On Time,339.00,439.20,30.33,5
+SHP0240,Gonzales-Maxwell,Gulfport,MS,Fayetteville,AR,4/20/2025,4/20/2025,1153,Refrigerated,On Time,1567.16,2056.34,155.14,71
+SHP0241,Mcdaniel PLC,San Antonio,TX,Savannah,GA,5/29/2025,5/29/2025,187,Flatbed,Delayed,332.36,419.38,30.14,13
+SHP0242,"Carter, Carr and Wells",Houston,TX,Savannah,GA,6/11/2025,6/11/2025,1658,Flatbed,On Time,2213.04,2670.76,251.83,231
+SHP0243,Charles-Sellers,Knoxville,TN,Tampa,FL,5/25/2025,5/25/2025,497,Flatbed,Delayed,605.14,809.97,68.00,60
+SHP0244,Miller LLC,Tampa,FL,Gulfport,MS,5/27/2025,5/27/2025,1514,Dry Van,On Time,2098.97,2605.20,217.47,206
+SHP0245,Russell-Jones,Little Rock,AR,New Orleans,LA,6/15/2025,6/15/2025,1892,Refrigerated,Delayed,2576.13,3068.05,266.48,211
+SHP0246,"Howard, Parks and Leonard",Fayetteville,AR,Knoxville,TN,5/29/2025,5/29/2025,1210,Flatbed,On Time,1471.22,1711.98,200.08,127
+SHP0247,Mann-Thornton,Augusta,GA,New Orleans,LA,3/5/2025,3/5/2025,1825,Flatbed,Delayed,2550.61,3391.08,314.85,236
+SHP0248,Byrd PLC,Savannah,GA,Mobile,AL,3/12/2025,3/12/2025,1277,Flatbed,On Time,1589.77,2143.69,185.41,167
+SHP0249,"Wilson, Clay and Hill",Nashville,TN,Mobile,AL,6/21/2025,6/21/2025,1450,Refrigerated,On Time,2048.89,2699.01,248.04,41
+SHP0250,Miller-Jacobs,Little Rock,AR,Houston,TX,7/22/2025,7/22/2025,1244,Dry Van,On Time,1833.71,2117.09,173.05,103
+SHP0251,Schwartz-Costa,Jackson,MS,Tampa,FL,2/17/2025,2/17/2025,1129,Flatbed,On Time,1792.81,2264.41,198.62,56
+SHP0252,"Farrell, Ryan and Underwood",Atlanta,GA,Memphis,TN,3/9/2025,3/9/2025,1222,Refrigerated,On Time,1858.79,2595.02,179.51,78
+SHP0253,Stanley Ltd,Greenville,SC,Knoxville,TN,4/19/2025,4/19/2025,753,Refrigerated,On Time,1140.66,1388.11,122.52,78
+SHP0254,Russell-Miller,Savannah,GA,Nashville,TN,6/17/2025,6/19/2025,425,Dry Van,On Time,557.52,709.61,69.62,22
+SHP0255,Lewis and Sons,Savannah,GA,Shreveport,LA,6/27/2025,6/27/2025,948,Refrigerated,Delayed,1704.75,2356.13,127.61,142
+SHP0256,Cardenas Inc,Dallas,TX,Jackson,MS,5/16/2025,5/16/2025,1170,Refrigerated,On Time,1427.31,1711.17,166.19,55
+SHP0257,Salazar-Shepherd,Jackson,MS,New Orleans,LA,2/24/2025,2/24/2025,1808,Flatbed,On Time,3149.15,3666.40,245.36,138
+SHP0258,Flynn Ltd,Raleigh,NC,San Antonio,TX,7/9/2025,7/9/2025,964,Flatbed,On Time,1580.25,1902.83,132.07,120
+SHP0259,Smith-Thompson,Hattiesburg,MS,New Orleans,LA,5/24/2025,5/24/2025,736,Refrigerated,On Time,1245.51,1598.36,130.55,58
+SHP0260,Norris PLC,Orlando,FL,Augusta,GA,5/31/2025,5/31/2025,1892,Refrigerated,On Time,3087.80,3589.06,316.96,213
+SHP0261,Jimenez-Stuart,Fayetteville,AR,Augusta,GA,4/6/2025,4/9/2025,1039,Dry Van,Delayed,1543.24,1855.11,148.28,124
+SHP0262,"Smith, Conway and Parker",Miami,FL,Knoxville,TN,3/7/2025,3/7/2025,1063,Dry Van,On Time,1817.94,2344.13,156.89,136
+SHP0263,Taylor-Bell,Columbia,SC,Charlotte,NC,3/15/2025,3/15/2025,492,Dry Van,Delayed,881.16,1058.63,83.95,25
+SHP0264,"Morgan, Bautista and Cruz",Tampa,FL,Little Rock,AR,3/19/2025,3/19/2025,700,Flatbed,On Time,1137.87,1397.55,94.98,44
+SHP0265,Scott-Lee,Fort Smith,AR,Mobile,AL,6/30/2025,6/30/2025,1890,Refrigerated,On Time,2384.42,2806.11,305.72,219
+SHP0266,"Yang, Johnson and Ewing",Knoxville,TN,Little Rock,AR,4/12/2025,4/12/2025,1596,Dry Van,On Time,1965.96,2275.94,264.26,125
+SHP0267,Miller PLC,Knoxville,TN,Orlando,FL,3/6/2025,3/6/2025,370,Refrigerated,On Time,453.28,539.40,50.13,52
+SHP0268,Figueroa Inc,Jackson,MS,New Orleans,LA,2/22/2025,2/22/2025,211,Dry Van,On Time,318.95,389.31,34.04,31
+SHP0269,Small-Gentry,San Antonio,TX,Montgomery,AL,5/3/2025,5/3/2025,302,Flatbed,On Time,364.51,453.32,43.10,17
+SHP0270,Adams Group,Atlanta,GA,Gulfport,MS,3/4/2025,3/4/2025,1693,Refrigerated,Delayed,2379.59,2994.04,285.81,61
+SHP0271,Cain-Bailey,Miami,FL,Charlotte,NC,5/3/2025,5/3/2025,1296,Refrigerated,On Time,2084.52,2674.00,200.75,175
+SHP0272,Conner Ltd,Birmingham,AL,Fort Smith,AR,6/14/2025,6/14/2025,858,Flatbed,On Time,1388.70,1598.70,146.75,33
+SHP0273,"Smith, Cook and Thompson",Birmingham,AL,Nashville,TN,7/20/2025,7/20/2025,757,Dry Van,On Time,1070.83,1473.60,120.51,20
+SHP0274,"Sanchez, Vargas and Tucker",Miami,FL,Gulfport,MS,5/19/2025,5/19/2025,1926,Dry Van,On Time,2736.26,3621.10,303.49,273
+SHP0275,Mcbride Group,Memphis,TN,Birmingham,AL,7/2/2025,7/2/2025,1600,Flatbed,On Time,2390.57,3178.10,223.40,70
+SHP0276,Chen PLC,Shreveport,LA,Jackson,MS,7/7/2025,7/7/2025,1023,Dry Van,Cancelled,1356.51,1783.94,178.40,90
+SHP0277,"Nelson, Davis and Pollard",Memphis,TN,Montgomery,AL,4/8/2025,4/8/2025,550,Dry Van,On Time,903.82,1184.12,94.15,34
+SHP0278,Jones PLC,Columbia,SC,Little Rock,AR,6/9/2025,6/9/2025,219,Dry Van,On Time,271.06,356.28,29.27,13
+SHP0279,Townsend-Anderson,Shreveport,LA,Jackson,MS,3/4/2025,3/4/2025,1407,Flatbed,Delayed,1973.25,2394.50,223.26,104
+SHP0280,"Hopkins, Davis and Simon",Greenville,SC,New Orleans,LA,6/5/2025,6/5/2025,525,Flatbed,On Time,725.40,956.69,93.30,33
+SHP0281,Brandt-Rodriguez,Greensboro,NC,Charleston,SC,6/15/2025,6/15/2025,799,Flatbed,On Time,962.30,1155.04,107.48,35
+SHP0282,Brown-Valencia,Baton Rouge,LA,San Antonio,TX,7/2/2025,7/2/2025,739,Refrigerated,Cancelled,987.62,1269.13,115.61,40
+SHP0283,Wallace-Le,Montgomery,AL,Memphis,TN,2/18/2025,2/18/2025,1431,Flatbed,On Time,2273.22,3142.35,209.51,115
+SHP0284,Knight-Richard,Miami,FL,Greenville,SC,6/14/2025,6/14/2025,1212,Dry Van,On Time,1761.90,2412.94,164.02,100
+SHP0285,Johnson-Johnston,Raleigh,NC,Houston,TX,4/25/2025,4/25/2025,588,Flatbed,Delayed,995.77,1367.62,100.72,42
+SHP0286,Boyd-Obrien,Miami,FL,New Orleans,LA,7/24/2025,7/24/2025,940,Flatbed,Delayed,1670.37,2240.97,157.72,110
+SHP0287,Thomas-Cabrera,Raleigh,NC,Dallas,TX,3/19/2025,3/22/2025,1047,Refrigerated,On Time,1692.40,2142.14,174.52,68
+SHP0288,Stokes-Tucker,Tampa,FL,Nashville,TN,2/19/2025,2/19/2025,1163,Flatbed,On Time,1728.10,2150.33,188.55,89
+SHP0289,Willis-Jones,New Orleans,LA,Knoxville,TN,3/31/2025,3/31/2025,829,Refrigerated,On Time,1188.41,1511.46,131.31,84
+SHP0290,"Li, Dean and Bell",Birmingham,AL,Tampa,FL,8/4/2025,8/4/2025,1599,Refrigerated,On Time,2152.67,2534.69,251.06,237
+SHP0291,"Hunt, King and Carpenter",San Antonio,TX,Little Rock,AR,4/18/2025,4/18/2025,1143,Flatbed,Delayed,1965.17,2558.22,171.59,118
+SHP0292,Boyd-Johnson,Dallas,TX,Gulfport,MS,4/5/2025,4/5/2025,993,Refrigerated,On Time,1776.39,2451.57,145.68,97
+SHP0293,Flynn-Boyd,Nashville,TN,Greenville,SC,6/20/2025,6/20/2025,744,Flatbed,On Time,1225.35,1701.55,117.01,74
+SHP0294,Fuentes Inc,Little Rock,AR,Knoxville,TN,4/1/2025,4/1/2025,1689,Refrigerated,On Time,2268.32,3144.03,249.71,73
+SHP0295,"Thornton, Cox and Doyle",Jackson,MS,Shreveport,LA,3/18/2025,3/18/2025,963,Refrigerated,Delayed,1329.12,1572.68,155.48,67
+SHP0296,Fields-Murphy,Knoxville,TN,Shreveport,LA,6/5/2025,6/5/2025,1573,Refrigerated,On Time,2653.74,3669.55,259.75,135
+SHP0297,Johnson Ltd,Little Rock,AR,Hattiesburg,MS,5/29/2025,6/1/2025,1052,Refrigerated,Cancelled,1649.30,1928.56,151.60,155
+SHP0298,Watkins-Nolan,New Orleans,LA,Greensboro,NC,4/12/2025,4/12/2025,256,Flatbed,On Time,405.86,555.46,44.96,36
+SHP0299,"Walker, Stanley and Jones",Houston,TX,Raleigh,NC,4/4/2025,4/4/2025,403,Dry Van,On Time,626.97,789.11,60.03,12
+SHP0300,Love Group,New Orleans,LA,Greensboro,NC,5/4/2025,5/4/2025,466,Refrigerated,On Time,609.47,834.96,75.15,40
+SHP0301,Bennett Ltd,Savannah,GA,Charlotte,NC,4/3/2025,4/6/2025,1480,Refrigerated,On Time,2129.01,2619.46,264.45,49
+SHP0302,Mitchell-Parrish,Charlotte,NC,San Antonio,TX,3/11/2025,3/16/2025,1466,Flatbed,On Time,2557.77,3230.02,218.49,38
+SHP0303,"Ewing, Adams and Lewis",Greensboro,NC,Baton Rouge,LA,3/11/2025,3/11/2025,1857,Flatbed,On Time,2531.52,3219.22,268.83,74
+SHP0304,Mueller Ltd,Greenville,SC,Raleigh,NC,3/18/2025,3/18/2025,492,Refrigerated,On Time,708.37,908.42,86.22,19
+SHP0305,Ruiz and Sons,Montgomery,AL,Columbia,SC,3/30/2025,3/30/2025,928,Flatbed,Delayed,1260.38,1503.00,148.45,137
+SHP0306,Mejia LLC,Montgomery,AL,Atlanta,GA,4/25/2025,4/25/2025,757,Refrigerated,Cancelled,1327.13,1610.81,115.60,15
+SHP0307,Johnson Inc,Raleigh,NC,Miami,FL,5/6/2025,5/6/2025,1004,Refrigerated,On Time,1279.42,1715.01,152.39,94
+SHP0308,"Reynolds, Ortiz and Phillips",Dallas,TX,Knoxville,TN,3/11/2025,3/13/2025,1187,Flatbed,On Time,2093.11,2458.82,190.97,164
+SHP0309,Thompson Group,Charleston,SC,Nashville,TN,4/22/2025,4/23/2025,961,Refrigerated,On Time,1483.98,1947.58,164.08,39
+SHP0310,"Russell, Ayala and Garcia",Knoxville,TN,Charlotte,NC,8/8/2025,8/8/2025,562,Refrigerated,On Time,914.86,1279.05,75.01,21
+SHP0311,Schneider-Nguyen,Little Rock,AR,Jackson,MS,7/29/2025,7/29/2025,1426,Flatbed,Cancelled,1912.62,2358.54,243.07,144
+SHP0312,Richards-Rodriguez,Houston,TX,Greenville,SC,8/2/2025,8/2/2025,576,Refrigerated,Delayed,737.55,888.44,90.26,57
+SHP0313,Avila Ltd,Mobile,AL,Memphis,TN,5/23/2025,5/23/2025,590,Flatbed,On Time,771.97,947.26,81.12,85
+SHP0314,Molina Group,New Orleans,LA,Orlando,FL,5/2/2025,5/2/2025,670,Flatbed,On Time,1147.57,1598.36,90.00,80
+SHP0315,Lynn LLC,Greensboro,NC,Baton Rouge,LA,4/5/2025,4/5/2025,1672,Flatbed,On Time,2614.23,3122.38,257.04,104
+SHP0316,"Parks, Henderson and Pena",Fayetteville,AR,Houston,TX,3/5/2025,3/5/2025,1390,Refrigerated,Delayed,2141.52,2686.20,211.71,125
+SHP0317,Shannon-Rogers,Atlanta,GA,Raleigh,NC,4/24/2025,4/24/2025,334,Flatbed,On Time,506.01,583.92,45.21,37
+SHP0318,"Gray, Anderson and Craig",Houston,TX,Nashville,TN,2/27/2025,2/27/2025,398,Dry Van,On Time,511.97,679.28,70.47,17
+SHP0319,Osborn-Gomez,Hattiesburg,MS,Dallas,TX,5/13/2025,5/13/2025,443,Flatbed,Delayed,650.83,910.63,60.87,44
+SHP0320,Moore-Coleman,Charlotte,NC,Charleston,SC,7/18/2025,7/18/2025,1949,Dry Van,On Time,2768.91,3627.77,307.84,41
+SHP0321,Howard Ltd,Nashville,TN,San Antonio,TX,4/27/2025,4/27/2025,487,Flatbed,On Time,626.17,761.72,71.12,53
+SHP0322,Miller-Gonzales,Hattiesburg,MS,Atlanta,GA,3/16/2025,3/21/2025,1008,Dry Van,On Time,1489.50,1729.97,162.35,70
+SHP0323,Barry-Cooley,Greenville,SC,Gulfport,MS,2/13/2025,2/19/2025,1679,Dry Van,Delayed,2102.38,2706.43,225.69,54
+SHP0324,Brown Group,Houston,TX,Hattiesburg,MS,2/20/2025,2/20/2025,138,Dry Van,On Time,223.54,311.03,20.90,12
+SHP0325,Martinez Ltd,New Orleans,LA,Houston,TX,3/2/2025,3/2/2025,1133,Flatbed,On Time,1629.84,1892.09,168.22,64
+SHP0326,Knight-Manning,San Antonio,TX,Fayetteville,AR,5/22/2025,5/22/2025,1447,Refrigerated,On Time,1905.79,2320.74,199.66,98
+SHP0327,"Harris, Hart and Russell",Birmingham,AL,Houston,TX,3/5/2025,3/5/2025,456,Refrigerated,On Time,568.81,673.69,69.18,40
+SHP0328,Wallace-Brown,Jackson,MS,Greenville,SC,6/2/2025,6/2/2025,208,Refrigerated,On Time,371.56,457.03,32.32,22
+SHP0329,"Bryant, Caldwell and Pearson",Greensboro,NC,Greenville,SC,5/5/2025,5/5/2025,382,Flatbed,Delayed,597.94,799.95,58.54,18
+SHP0330,Edwards and Sons,Mobile,AL,Nashville,TN,3/26/2025,3/26/2025,1891,Refrigerated,On Time,2998.97,3732.32,307.14,275
+SHP0331,"Herrera, White and Richards",Nashville,TN,Greenville,SC,3/18/2025,3/18/2025,314,Dry Van,Delayed,510.13,607.92,49.76,46
+SHP0332,"Jackson, Davis and Pratt",Raleigh,NC,Savannah,GA,6/2/2025,6/2/2025,1575,Flatbed,On Time,1944.63,2675.10,226.44,110
+SHP0333,Bowen-Anthony,Atlanta,GA,Little Rock,AR,8/1/2025,8/1/2025,1473,Refrigerated,On Time,2399.05,2952.26,202.67,89
+SHP0334,Paul-Elliott,Dallas,TX,Nashville,TN,7/24/2025,7/29/2025,1862,Refrigerated,On Time,2266.12,3033.26,271.64,178
+SHP0335,"Potts, Hamilton and Pope",Atlanta,GA,Greensboro,NC,4/3/2025,4/7/2025,1478,Flatbed,On Time,2192.31,2877.12,228.93,188
+SHP0336,Powell LLC,Tampa,FL,Birmingham,AL,5/16/2025,5/16/2025,1451,Refrigerated,On Time,2247.03,2996.28,235.97,175
+SHP0337,"Contreras, Fitzpatrick and White",Little Rock,AR,Baton Rouge,LA,8/9/2025,8/9/2025,1907,Refrigerated,Cancelled,2718.28,3760.47,298.03,193
+SHP0338,Sparks-Ryan,Jackson,MS,Savannah,GA,2/18/2025,2/22/2025,140,Dry Van,On Time,243.09,326.48,19.26,12
+SHP0339,Kerr Ltd,Shreveport,LA,Fayetteville,AR,2/23/2025,2/25/2025,566,Flatbed,On Time,1009.95,1374.28,83.27,76
+SHP0340,"Hernandez, Howard and Hill",Fayetteville,AR,Houston,TX,6/7/2025,6/10/2025,1050,Refrigerated,On Time,1358.63,1806.01,179.77,83
+SHP0341,Gomez Group,Gulfport,MS,Dallas,TX,4/2/2025,4/2/2025,1974,Dry Van,Delayed,3393.28,4102.64,264.43,178
+SHP0342,Jacobs PLC,Columbia,SC,Birmingham,AL,2/28/2025,2/28/2025,1007,Refrigerated,Delayed,1354.92,1817.58,171.27,107
+SHP0343,"Schultz, Anderson and Holmes",Fort Smith,AR,Memphis,TN,3/14/2025,3/14/2025,973,Dry Van,On Time,1531.99,1856.93,133.41,80
+SHP0344,Stanley LLC,Shreveport,LA,Mobile,AL,3/17/2025,3/17/2025,657,Dry Van,Delayed,918.37,1280.09,94.77,26
+SHP0345,Archer-Smith,Tampa,FL,Montgomery,AL,4/23/2025,4/23/2025,1382,Dry Van,On Time,2348.36,3274.70,249.61,93
+SHP0346,Sanchez LLC,Fayetteville,AR,Nashville,TN,2/23/2025,2/23/2025,1458,Refrigerated,On Time,1986.04,2777.77,236.34,32
+SHP0347,"Brown, Alexander and Gonzalez",Orlando,FL,Houston,TX,3/22/2025,3/22/2025,1322,Refrigerated,On Time,1911.69,2273.61,192.30,127
+SHP0348,"Juarez, Davis and Newman",Dallas,TX,Hattiesburg,MS,8/11/2025,8/11/2025,1356,Refrigerated,On Time,2386.03,3140.82,190.34,194
+SHP0349,Walker Group,Memphis,TN,Atlanta,GA,3/19/2025,3/19/2025,804,Dry Van,Delayed,1128.91,1519.71,114.76,119
+SHP0350,Kelly-Gilmore,Gulfport,MS,Knoxville,TN,2/19/2025,2/19/2025,1430,Dry Van,On Time,2027.61,2459.69,193.88,41
+SHP0351,Young-Mcknight,Knoxville,TN,Fort Smith,AR,6/18/2025,6/18/2025,337,Flatbed,On Time,495.47,585.23,51.87,20
+SHP0352,"Davis, Wilkins and Davis",Augusta,GA,Jackson,MS,3/31/2025,3/31/2025,1740,Refrigerated,Cancelled,2821.08,3698.69,232.84,175
+SHP0353,"Austin, Fisher and Murphy",Miami,FL,Shreveport,LA,2/20/2025,2/20/2025,475,Flatbed,On Time,612.71,717.11,73.34,30
+SHP0354,Doyle-Dunn,Gulfport,MS,Memphis,TN,6/2/2025,6/2/2025,1803,Refrigerated,On Time,2632.74,3531.84,254.29,99
+SHP0355,Rich PLC,Augusta,GA,Jackson,MS,3/25/2025,3/25/2025,764,Refrigerated,On Time,1037.50,1354.82,112.91,82
+SHP0356,"Anderson, Mcdonald and Jacobs",Little Rock,AR,Mobile,AL,2/18/2025,2/24/2025,635,Dry Van,On Time,1092.72,1500.88,89.02,64
+SHP0357,Burns Inc,Houston,TX,Columbia,SC,3/16/2025,3/16/2025,716,Refrigerated,On Time,1161.41,1403.07,97.30,99
+SHP0358,Jacobs-Harrell,Shreveport,LA,Jackson,MS,5/16/2025,5/16/2025,1415,Flatbed,On Time,2017.06,2770.00,233.57,114
+SHP0359,Williams Group,Birmingham,AL,Gulfport,MS,2/16/2025,2/16/2025,1609,Refrigerated,Delayed,2063.83,2820.12,233.46,228
+SHP0360,Jordan PLC,Shreveport,LA,Nashville,TN,7/6/2025,7/9/2025,967,Dry Van,Delayed,1492.55,1820.52,149.51,121
+SHP0361,"Jordan, Roberts and Hensley",Tampa,FL,Greensboro,NC,6/22/2025,6/22/2025,1135,Flatbed,Delayed,1480.85,1978.41,162.15,138
+SHP0362,Foster-Arroyo,Nashville,TN,Montgomery,AL,6/7/2025,6/7/2025,278,Dry Van,Delayed,340.80,407.38,40.97,30
+SHP0363,"Young, Wheeler and Brooks",Mobile,AL,Fayetteville,AR,6/23/2025,6/23/2025,1613,Flatbed,On Time,2177.90,2804.04,279.81,198
+SHP0364,Hughes Inc,Fayetteville,AR,Atlanta,GA,5/19/2025,5/19/2025,249,Dry Van,On Time,388.33,447.07,34.47,14
+SHP0365,Scott Group,Birmingham,AL,Miami,FL,4/4/2025,4/4/2025,1311,Refrigerated,On Time,2288.86,2824.67,177.95,128
+SHP0366,Watson-Le,Fort Smith,AR,Shreveport,LA,5/5/2025,5/5/2025,746,Dry Van,On Time,1274.64,1702.04,112.25,20
+SHP0367,"Todd, Adams and Nelson",Jackson,MS,Knoxville,TN,7/19/2025,7/19/2025,1919,Flatbed,On Time,2965.94,4074.73,271.54,56
+SHP0368,Green PLC,Miami,FL,Knoxville,TN,7/20/2025,7/20/2025,319,Refrigerated,On Time,470.62,554.77,44.01,13
+SHP0369,"Graves, Barnett and Walls",Orlando,FL,Mobile,AL,3/13/2025,3/13/2025,397,Refrigerated,On Time,621.55,820.17,71.92,12
+SHP0370,"Davis, Hill and Newman",Baton Rouge,LA,Raleigh,NC,4/20/2025,4/20/2025,1220,Flatbed,On Time,1988.15,2553.77,219.86,63
+SHP0371,Glover LLC,Mobile,AL,Fort Smith,AR,6/3/2025,6/3/2025,1972,Flatbed,On Time,2544.54,3010.99,295.37,123
+SHP0372,Winters Inc,Savannah,GA,Hattiesburg,MS,6/17/2025,6/19/2025,547,Refrigerated,On Time,938.78,1285.38,76.44,68
+SHP0373,Thomas PLC,Baton Rouge,LA,Mobile,AL,5/18/2025,5/18/2025,1183,Flatbed,Delayed,1922.36,2261.43,169.75,103
+SHP0374,Nguyen-Smith,Little Rock,AR,Raleigh,NC,7/27/2025,8/2/2025,586,Dry Van,On Time,1034.51,1402.73,81.19,32
+SHP0375,Thornton-Elliott,New Orleans,LA,Savannah,GA,7/5/2025,7/5/2025,135,Dry Van,On Time,181.55,208.91,20.63,8
+SHP0376,Dodson-Jensen,Hattiesburg,MS,Charleston,SC,4/28/2025,4/28/2025,1603,Dry Van,On Time,2649.67,3255.55,264.99,181
+SHP0377,"Smith, Smith and Hughes",Greenville,SC,Shreveport,LA,6/8/2025,6/8/2025,1060,Dry Van,On Time,1509.43,1894.48,173.97,155
+SHP0378,Kennedy PLC,Hattiesburg,MS,Raleigh,NC,6/18/2025,6/18/2025,1332,Flatbed,On Time,1694.53,2251.59,178.63,159
+SHP0379,Andrews LLC,Orlando,FL,Atlanta,GA,5/8/2025,5/8/2025,1288,Flatbed,On Time,1640.84,2207.70,176.80,147
+SHP0380,Wang-Olson,Shreveport,LA,Fort Smith,AR,7/8/2025,7/8/2025,1359,Dry Van,On Time,1809.44,2336.83,198.35,49
+SHP0381,Johnson and Sons,Memphis,TN,Shreveport,LA,2/24/2025,2/24/2025,1014,Refrigerated,On Time,1605.92,2015.03,174.02,62
+SHP0382,"Jenkins, Harper and Mckinney",Orlando,FL,Hattiesburg,MS,5/1/2025,5/1/2025,1837,Refrigerated,On Time,2302.24,2924.74,326.06,121
+SHP0383,Daniel-Lewis,Greenville,SC,New Orleans,LA,7/25/2025,7/25/2025,652,Refrigerated,On Time,1039.60,1357.60,105.38,23
+SHP0384,Jones-Wallace,Birmingham,AL,Atlanta,GA,3/31/2025,3/31/2025,143,Refrigerated,On Time,215.62,295.43,25.73,20
+SHP0385,Morgan Group,Montgomery,AL,Knoxville,TN,6/19/2025,6/22/2025,623,Flatbed,On Time,1090.80,1437.08,90.78,59
+SHP0386,Rogers Group,Miami,FL,Gulfport,MS,7/2/2025,7/2/2025,1201,Flatbed,On Time,2135.95,2856.29,199.27,53
+SHP0387,Oneal Inc,Gulfport,MS,Greensboro,NC,7/16/2025,7/16/2025,1827,Refrigerated,On Time,2707.55,3370.16,296.28,146
+SHP0388,Moore-Aguilar,Houston,TX,Hattiesburg,MS,5/23/2025,5/23/2025,371,Flatbed,Delayed,529.05,688.68,53.34,46
+SHP0389,Gomez-Walton,Nashville,TN,Gulfport,MS,8/9/2025,8/9/2025,1953,Flatbed,On Time,3249.86,3825.38,342.74,184
+SHP0390,Newman-Stark,Fayetteville,AR,Baton Rouge,LA,3/20/2025,3/20/2025,1684,Flatbed,Delayed,2838.62,3402.23,244.01,175
+SHP0391,Bradley Inc,Houston,TX,Shreveport,LA,3/9/2025,3/9/2025,306,Flatbed,Delayed,511.91,703.92,53.93,19
+SHP0392,Young-Morgan,Raleigh,NC,Tampa,FL,6/21/2025,6/22/2025,532,Dry Van,On Time,956.05,1271.09,89.17,61
+SHP0393,Vazquez-Fuller,Savannah,GA,Tampa,FL,2/16/2025,2/16/2025,1925,Flatbed,On Time,2560.20,3057.28,285.97,275
+SHP0394,"Chavez, Johnson and Hernandez",Miami,FL,Jackson,MS,6/11/2025,6/11/2025,1155,Dry Van,On Time,1423.52,1830.77,197.59,57
+SHP0395,"Schmitt, Petty and Tucker",Gulfport,MS,Little Rock,AR,3/26/2025,3/26/2025,671,Refrigerated,Cancelled,967.84,1126.90,108.58,19
+SHP0396,Mayo PLC,New Orleans,LA,Miami,FL,5/25/2025,5/25/2025,1218,Flatbed,On Time,1798.86,2412.48,164.51,172
+SHP0397,Lee-Giles,Raleigh,NC,Orlando,FL,3/26/2025,3/28/2025,1008,Refrigerated,On Time,1754.05,2085.14,162.70,71
+SHP0398,Nichols-Ramsey,Atlanta,GA,Montgomery,AL,3/28/2025,3/28/2025,834,Dry Van,Delayed,1373.94,1609.05,117.56,33
+SHP0399,Graves-Wilson,Raleigh,NC,Savannah,GA,7/10/2025,7/10/2025,334,Dry Van,On Time,464.93,549.58,56.42,12
+SHP0400,"Hunter, Martin and Morgan",Little Rock,AR,Baton Rouge,LA,6/20/2025,6/20/2025,1772,Refrigerated,On Time,2252.23,2695.83,264.14,157
+SHP0401,Salazar and Sons,Memphis,TN,Fayetteville,AR,4/13/2025,4/13/2025,1490,Flatbed,On Time,2020.78,2441.28,249.19,115
+SHP0402,Krueger and Sons,Savannah,GA,Jackson,MS,4/12/2025,4/18/2025,1542,Flatbed,On Time,2414.75,3137.85,233.63,107
+SHP0403,Thompson Inc,Gulfport,MS,Savannah,GA,7/13/2025,7/13/2025,1704,Dry Van,On Time,2906.04,3754.43,247.78,162
+SHP0404,"Hines, Rodriguez and Randolph",Savannah,GA,Charlotte,NC,4/23/2025,4/23/2025,1803,Dry Van,On Time,2870.36,3418.05,250.80,127
+SHP0405,Whitaker-Watts,Jackson,MS,Birmingham,AL,7/6/2025,7/6/2025,1804,Dry Van,Cancelled,2878.45,3932.63,311.55,125
+SHP0406,Rogers-Reyes,Greenville,SC,Tampa,FL,3/20/2025,3/25/2025,864,Flatbed,On Time,1511.16,1810.45,139.40,98
+SHP0407,Williams-Smith,Knoxville,TN,Tampa,FL,3/3/2025,3/3/2025,718,Refrigerated,On Time,1121.78,1512.37,103.63,51
+SHP0408,"Bartlett, Thomas and Montoya",Savannah,GA,Memphis,TN,3/10/2025,3/10/2025,738,Refrigerated,On Time,1016.13,1219.63,108.18,19
+SHP0409,"Waters, Mosley and Burns",Orlando,FL,New Orleans,LA,4/14/2025,4/14/2025,1971,Flatbed,On Time,3466.96,4466.21,293.48,149
+SHP0410,Allen Group,Dallas,TX,Memphis,TN,5/22/2025,5/22/2025,309,Refrigerated,Delayed,503.35,692.37,41.90,30
+SHP0411,"Cooper, Schultz and Greer",Greenville,SC,Memphis,TN,3/2/2025,3/2/2025,1944,Dry Van,Delayed,2434.75,3332.06,285.04,237
+SHP0412,Gay Group,Augusta,GA,Nashville,TN,2/15/2025,2/15/2025,1045,Refrigerated,On Time,1753.47,2147.85,158.68,102
+SHP0413,Woods-Hopkins,Shreveport,LA,Fayetteville,AR,4/19/2025,4/19/2025,1693,Dry Van,On Time,2891.31,3485.93,232.97,124
+SHP0414,Brewer-Evans,Charlotte,NC,Nashville,TN,8/10/2025,8/10/2025,1792,Flatbed,On Time,2917.27,3664.76,266.57,74
+SHP0415,Martinez Group,Baton Rouge,LA,San Antonio,TX,6/24/2025,6/27/2025,1012,Flatbed,On Time,1307.15,1604.98,139.16,26
+SHP0416,"Thomas, Benson and Parsons",Little Rock,AR,Montgomery,AL,7/8/2025,7/13/2025,349,Refrigerated,Delayed,490.31,586.92,52.74,9
+SHP0417,Carlson-Gallegos,Miami,FL,Columbia,SC,2/13/2025,2/13/2025,136,Dry Van,On Time,239.69,324.20,19.20,10
+SHP0418,"Brown, Reed and Hernandez",Fort Smith,AR,Gulfport,MS,4/20/2025,4/20/2025,1910,Refrigerated,Delayed,2893.17,3739.45,255.62,238
+SHP0419,Sanchez-Swanson,Fort Smith,AR,Greensboro,NC,5/11/2025,5/11/2025,1058,Refrigerated,On Time,1699.57,2358.54,183.80,28
+SHP0420,Gonzalez-Chan,Baton Rouge,LA,Birmingham,AL,2/27/2025,2/27/2025,698,Flatbed,On Time,1194.57,1465.93,96.74,85
+SHP0421,"Howe, Martinez and Johnson",Orlando,FL,New Orleans,LA,3/23/2025,3/23/2025,213,Dry Van,Delayed,304.77,363.39,35.13,18
+SHP0422,Howard-Lewis,Nashville,TN,New Orleans,LA,3/29/2025,3/29/2025,1428,Refrigerated,On Time,2043.07,2752.63,203.76,40
+SHP0423,"Carr, Holloway and Mcguire",Orlando,FL,Jackson,MS,6/30/2025,6/30/2025,473,Flatbed,Delayed,835.29,1103.47,75.83,46
+SHP0424,Mcgrath-Lester,Raleigh,NC,Hattiesburg,MS,3/15/2025,3/15/2025,1968,Dry Van,Delayed,2442.90,2893.00,268.12,127
+SHP0425,Martin PLC,Miami,FL,Augusta,GA,4/27/2025,4/27/2025,609,Refrigerated,Delayed,1014.26,1401.26,89.59,76
+SHP0426,Foster LLC,Jackson,MS,Fort Smith,AR,3/20/2025,3/20/2025,1817,Refrigerated,Delayed,3120.16,4258.04,322.28,92
+SHP0427,"Lopez, Anderson and Spencer",San Antonio,TX,New Orleans,LA,7/21/2025,7/21/2025,486,Flatbed,On Time,683.47,880.36,67.94,34
+SHP0428,"James, Dyer and Perry",Raleigh,NC,Greenville,SC,2/21/2025,2/21/2025,1538,Flatbed,On Time,2121.49,2567.61,263.48,162
+SHP0429,Mora-Oneal,Memphis,TN,Dallas,TX,2/24/2025,2/24/2025,1969,Flatbed,On Time,3347.92,4537.75,268.00,86
+SHP0430,Singleton-Thompson,Charleston,SC,Dallas,TX,3/17/2025,3/17/2025,1896,Flatbed,On Time,2562.82,3538.92,272.90,114
+SHP0431,"Logan, Lawrence and Jones",Montgomery,AL,New Orleans,LA,6/11/2025,6/11/2025,1184,Dry Van,On Time,1707.70,2025.44,165.78,63
+SHP0432,Lewis Inc,Gulfport,MS,Houston,TX,8/6/2025,8/6/2025,964,Flatbed,On Time,1345.12,1589.95,131.54,94
+SHP0433,Haney Ltd,Montgomery,AL,Greensboro,NC,5/20/2025,5/20/2025,827,Flatbed,Delayed,1096.31,1311.10,111.67,34
+SHP0434,"Allen, Coleman and Morton",Fort Smith,AR,Nashville,TN,5/2/2025,5/2/2025,1272,Refrigerated,On Time,2279.24,3052.29,184.44,45
+SHP0435,Nash-Powell,Greenville,SC,Tampa,FL,7/4/2025,7/4/2025,638,Dry Van,Delayed,949.39,1094.65,100.49,66
+SHP0436,Jackson-Solomon,Greensboro,NC,Hattiesburg,MS,7/18/2025,7/18/2025,961,Flatbed,On Time,1652.22,1926.31,158.74,109
+SHP0437,"Garcia, Williams and Roberts",Shreveport,LA,Montgomery,AL,3/14/2025,3/14/2025,254,Refrigerated,Delayed,455.42,523.96,37.01,16
+SHP0438,Brennan-Burch,Miami,FL,Dallas,TX,5/15/2025,5/15/2025,1845,Dry Van,On Time,2300.37,3154.40,324.37,96
+SHP0439,"Rice, Rowe and Bennett",Tampa,FL,Shreveport,LA,7/10/2025,7/10/2025,1786,Flatbed,On Time,2871.29,3735.09,292.65,42
+SHP0440,Wallace-Clark,Shreveport,LA,Fort Smith,AR,2/21/2025,2/21/2025,1403,Refrigerated,On Time,2497.80,2903.95,215.66,156
+SHP0441,Soto-Clarke,San Antonio,TX,Baton Rouge,LA,7/16/2025,7/16/2025,824,Flatbed,On Time,1478.81,1891.19,114.40,42
+SHP0442,Skinner LLC,Miami,FL,Little Rock,AR,5/10/2025,5/10/2025,621,Dry Van,On Time,980.58,1257.29,95.43,65
+SHP0443,"Leonard, Miller and Knox",Mobile,AL,Orlando,FL,5/1/2025,5/1/2025,140,Dry Van,On Time,216.68,261.25,21.17,17
+SHP0444,"Myers, Mitchell and Robinson",Memphis,TN,Baton Rouge,LA,5/25/2025,5/25/2025,185,Dry Van,On Time,295.64,395.60,29.96,21
+SHP0445,Hawkins Group,San Antonio,TX,Memphis,TN,2/21/2025,2/21/2025,568,Refrigerated,Delayed,767.23,1069.64,82.52,52
+SHP0446,"Callahan, Rodriguez and Hernandez",Mobile,AL,Augusta,GA,2/19/2025,2/19/2025,1589,Refrigerated,On Time,1923.33,2489.31,286.26,228
+SHP0447,"Johnson, Cook and Edwards",Fayetteville,AR,Baton Rouge,LA,3/19/2025,3/19/2025,1890,Refrigerated,On Time,2832.54,3837.68,276.14,57
+SHP0448,Thompson Ltd,Orlando,FL,Savannah,GA,7/14/2025,7/14/2025,462,Refrigerated,On Time,652.92,785.68,83.21,55
+SHP0449,"White, Rodriguez and Smith",Greensboro,NC,Miami,FL,3/16/2025,3/16/2025,993,Flatbed,On Time,1256.99,1682.08,174.83,36
+SHP0450,Lyons Group,Little Rock,AR,Baton Rouge,LA,2/26/2025,3/1/2025,1578,Flatbed,On Time,2650.14,3058.26,217.75,140
+SHP0451,"Williams, Powell and Campbell",Tampa,FL,Houston,TX,2/20/2025,2/20/2025,399,Refrigerated,On Time,526.45,614.55,55.29,22
+SHP0452,Ali Inc,Atlanta,GA,Greenville,SC,7/13/2025,7/13/2025,286,Dry Van,On Time,510.02,689.83,48.57,9
+SHP0453,"Ramos, Thompson and Thompson",Columbia,SC,Miami,FL,8/7/2025,8/7/2025,498,Refrigerated,On Time,661.76,803.03,80.21,72
+SHP0454,"Petty, Martin and Jenkins",Charleston,SC,Nashville,TN,4/30/2025,4/30/2025,402,Flatbed,On Time,501.74,638.62,64.15,45
+SHP0455,"Pace, Yang and Oliver",Orlando,FL,San Antonio,TX,4/9/2025,4/9/2025,623,Refrigerated,On Time,935.87,1203.90,90.53,13
+SHP0456,Melton and Sons,Memphis,TN,Atlanta,GA,3/26/2025,3/29/2025,1399,Flatbed,On Time,1900.40,2196.23,250.90,137
+SHP0457,Brooks and Sons,Tampa,FL,Mobile,AL,5/15/2025,5/15/2025,139,Refrigerated,On Time,211.41,275.81,22.74,15
+SHP0458,"Smith, Morris and Myers",San Antonio,TX,Baton Rouge,LA,3/3/2025,3/3/2025,432,Flatbed,On Time,662.81,819.30,74.82,11
+SHP0459,White PLC,Birmingham,AL,Charlotte,NC,5/12/2025,5/12/2025,1669,Refrigerated,Delayed,2908.89,3532.83,265.66,82
+SHP0460,"Turner, Mitchell and Rodriguez",Fayetteville,AR,Greenville,SC,5/27/2025,5/27/2025,130,Refrigerated,Delayed,174.80,217.81,22.35,10
+SHP0461,Dawson Inc,Birmingham,AL,Charleston,SC,5/18/2025,5/18/2025,1278,Refrigerated,On Time,1805.45,2175.90,199.98,165
+SHP0462,"Villarreal, Wise and Joseph",Nashville,TN,Columbia,SC,6/17/2025,6/17/2025,1828,Flatbed,On Time,2626.83,3588.11,304.60,136
+SHP0463,"Day, Roy and Walsh",New Orleans,LA,Miami,FL,5/3/2025,5/3/2025,1037,Dry Van,On Time,1422.35,1692.70,154.01,53
+SHP0464,"White, Blake and Wilson",Hattiesburg,MS,Birmingham,AL,7/4/2025,7/4/2025,1159,Dry Van,On Time,1800.87,2329.40,160.75,93
+SHP0465,James and Sons,Memphis,TN,Hattiesburg,MS,5/23/2025,5/26/2025,751,Flatbed,On Time,989.13,1233.31,101.03,88
+SHP0466,Hull PLC,Birmingham,AL,Memphis,TN,4/29/2025,4/29/2025,1565,Flatbed,On Time,2224.39,2726.75,228.75,96
+SHP0467,"Nguyen, Burns and George",Birmingham,AL,Savannah,GA,6/19/2025,6/19/2025,633,Flatbed,On Time,884.86,1160.79,96.11,13
+SHP0468,Hayden Ltd,Augusta,GA,Hattiesburg,MS,7/26/2025,7/30/2025,1844,Flatbed,On Time,2589.04,3583.29,258.57,58
+SHP0469,"Clark, Huff and Lee",New Orleans,LA,Charleston,SC,2/22/2025,2/22/2025,1256,Refrigerated,Cancelled,2134.60,2829.66,222.47,67
+SHP0470,Merritt Group,Augusta,GA,Little Rock,AR,5/2/2025,5/5/2025,177,Flatbed,On Time,234.31,279.33,29.57,24
+SHP0471,Watts-Reid,Mobile,AL,Tampa,FL,7/1/2025,7/1/2025,1580,Dry Van,Delayed,1975.42,2288.58,231.70,64
+SHP0472,Mills Group,Baton Rouge,LA,Jackson,MS,5/22/2025,5/22/2025,1602,Flatbed,On Time,2564.06,3224.58,246.92,178
+SHP0473,Booker-Payne,Knoxville,TN,Columbia,SC,2/21/2025,2/21/2025,757,Flatbed,On Time,992.85,1189.51,111.22,30
+SHP0474,"Burgess, Robinson and Keller",Greensboro,NC,Greenville,SC,3/28/2025,3/28/2025,1885,Dry Van,Delayed,3146.59,3833.73,283.31,248
+SHP0475,Smith-Ruiz,Raleigh,NC,Columbia,SC,5/20/2025,5/20/2025,933,Dry Van,On Time,1418.14,1864.74,128.43,29
+SHP0476,Baker-White,Charleston,SC,Jackson,MS,7/5/2025,7/5/2025,1101,Refrigerated,On Time,1558.88,1973.46,150.21,77
+SHP0477,"Lawson, Sexton and Ramirez",Savannah,GA,San Antonio,TX,6/18/2025,6/18/2025,717,Dry Van,On Time,1186.52,1506.27,104.77,88
+SHP0478,Kaiser PLC,Gulfport,MS,Nashville,TN,3/27/2025,3/27/2025,953,Dry Van,Cancelled,1564.30,1973.37,132.00,103
+SHP0479,Myers-Clark,New Orleans,LA,Fort Smith,AR,4/8/2025,4/8/2025,380,Dry Van,On Time,469.09,654.31,52.64,53
+SHP0480,Williams Ltd,Savannah,GA,Charlotte,NC,5/1/2025,5/1/2025,1912,Dry Van,On Time,2720.40,3497.63,301.50,120
+SHP0481,Vega-Berry,Miami,FL,New Orleans,LA,6/4/2025,6/4/2025,577,Refrigerated,On Time,958.12,1135.89,81.50,34
+SHP0482,Reynolds Ltd,Savannah,GA,Dallas,TX,6/14/2025,6/14/2025,371,Refrigerated,Delayed,582.61,723.38,61.42,47
+SHP0483,"Leach, Dodson and Perez",Greenville,SC,Hattiesburg,MS,5/4/2025,5/4/2025,715,Dry Van,Delayed,1016.77,1335.92,107.57,103
+SHP0484,Hanna-Moss,Jackson,MS,San Antonio,TX,2/23/2025,2/23/2025,164,Dry Van,On Time,272.70,368.38,25.16,22
+SHP0485,"Ortiz, Bartlett and Barrett",Hattiesburg,MS,Columbia,SC,3/19/2025,3/24/2025,826,Dry Van,On Time,1373.98,1778.93,113.70,120
+SHP0486,Espinoza-Martin,Montgomery,AL,Jackson,MS,4/17/2025,4/17/2025,302,Refrigerated,On Time,435.32,552.85,53.78,41
+SHP0487,"Brown, Woodward and Davidson",Augusta,GA,Houston,TX,6/6/2025,6/8/2025,1806,Dry Van,On Time,3059.57,4087.80,273.27,154
+SHP0488,Rodriguez-Morris,Augusta,GA,Montgomery,AL,3/13/2025,3/13/2025,179,Refrigerated,Delayed,220.50,272.42,29.55,21
+SHP0489,Phillips PLC,Fort Smith,AR,Shreveport,LA,8/5/2025,8/5/2025,949,Flatbed,On Time,1559.08,1959.57,146.65,55
+SHP0490,Salazar LLC,Hattiesburg,MS,Greenville,SC,7/5/2025,7/5/2025,315,Refrigerated,Cancelled,493.46,625.89,48.65,35
+SHP0491,Jarvis PLC,Columbia,SC,Tampa,FL,3/18/2025,3/23/2025,205,Dry Van,Cancelled,327.70,444.62,28.03,28
+SHP0492,"Cohen, Oliver and Villegas",Hattiesburg,MS,Greenville,SC,3/15/2025,3/15/2025,415,Dry Van,Delayed,558.41,749.47,55.65,37
+SHP0493,Robertson PLC,San Antonio,TX,Gulfport,MS,5/13/2025,5/13/2025,1951,Flatbed,On Time,3235.40,4192.55,327.96,87
+SHP0494,"Wood, Gibbs and Frazier",Memphis,TN,Raleigh,NC,5/14/2025,5/14/2025,1162,Dry Van,On Time,1772.43,2135.28,190.70,114
+SHP0495,"Tate, Boone and Sutton",New Orleans,LA,Mobile,AL,6/15/2025,6/15/2025,515,Dry Van,Cancelled,627.19,828.77,85.90,15
+SHP0496,Castro-Hoover,Little Rock,AR,Tampa,FL,3/11/2025,3/11/2025,547,Dry Van,On Time,980.59,1278.81,93.62,57
+SHP0497,Guerrero-Avery,Fayetteville,AR,Jackson,MS,3/1/2025,3/1/2025,1087,Refrigerated,On Time,1904.92,2286.52,184.19,162
+SHP0498,Hall Group,Raleigh,NC,Shreveport,LA,6/26/2025,6/26/2025,763,Dry Van,On Time,1337.63,1545.74,133.24,22
+SHP0499,"Schroeder, Hodges and Cole",Tampa,FL,Montgomery,AL,5/9/2025,5/9/2025,115,Flatbed,Delayed,196.16,225.87,19.73,3
+SHP0500,"Delacruz, Wood and Smith",Columbia,SC,Dallas,TX,3/19/2025,3/19/2025,861,Dry Van,Cancelled,1404.11,1842.48,135.05,68
+SHP0501,Johnson-Stevenson,Jackson,MS,San Antonio,TX,5/6/2025,5/6/2025,599,Refrigerated,On Time,839.28,1117.27,100.22,20
+SHP0502,Harris-Johnson,Tampa,FL,Fayetteville,AR,5/14/2025,5/14/2025,729,Dry Van,Cancelled,1295.31,1599.91,130.71,58
+SHP0503,Johnson and Sons,New Orleans,LA,Gulfport,MS,3/23/2025,3/23/2025,1695,Dry Van,Delayed,2345.62,3205.59,248.87,165
+SHP0504,Lopez-Medina,Atlanta,GA,Memphis,TN,6/28/2025,6/28/2025,141,Refrigerated,Delayed,212.52,246.06,19.32,21
+SHP0505,"Wright, Mccarthy and Padilla",Gulfport,MS,Columbia,SC,6/13/2025,6/13/2025,1644,Flatbed,On Time,2339.12,3171.78,221.86,152
+SHP0506,Gutierrez-Parker,Charleston,SC,Fort Smith,AR,2/24/2025,2/24/2025,354,Flatbed,On Time,432.65,595.17,52.28,32
+SHP0507,Mcmahon and Sons,Orlando,FL,Fort Smith,AR,5/24/2025,5/24/2025,569,Refrigerated,On Time,981.49,1321.24,86.98,23
+SHP0508,"Dunn, Tate and Orr",Mobile,AL,Charleston,SC,5/12/2025,5/16/2025,253,Refrigerated,Delayed,396.88,490.37,39.43,35
+SHP0509,Sampson-Liu,Atlanta,GA,Houston,TX,2/13/2025,2/16/2025,1792,Refrigerated,Delayed,2805.81,3722.58,247.23,246
+SHP0510,"Reid, Rodriguez and Rivera",Greenville,SC,Gulfport,MS,3/24/2025,3/24/2025,1480,Dry Van,On Time,2481.91,2944.52,259.57,219
+SHP0511,Vargas LLC,New Orleans,LA,Savannah,GA,3/27/2025,3/27/2025,204,Refrigerated,Delayed,283.63,387.66,32.48,27
+SHP0512,Abbott-Dawson,Houston,TX,Nashville,TN,6/15/2025,6/19/2025,821,Flatbed,Delayed,1446.15,1739.57,135.01,19
+SHP0513,Bowen-Swanson,San Antonio,TX,Greenville,SC,4/1/2025,4/1/2025,1871,Flatbed,On Time,3101.48,3804.54,291.86,103
+SHP0514,Carter-Myers,Nashville,TN,Baton Rouge,LA,7/31/2025,7/31/2025,679,Flatbed,Delayed,1134.04,1550.03,94.38,40
+SHP0515,Brown PLC,Columbia,SC,San Antonio,TX,8/7/2025,8/7/2025,1324,Refrigerated,On Time,2103.13,2820.76,211.72,137
+SHP0516,Smith and Sons,Dallas,TX,Gulfport,MS,6/26/2025,6/29/2025,612,Refrigerated,On Time,988.33,1208.40,86.16,57
+SHP0517,Hill Ltd,Charleston,SC,Hattiesburg,MS,3/25/2025,3/25/2025,709,Dry Van,On Time,1131.68,1484.81,127.67,89
+SHP0518,Gonzalez Inc,Jackson,MS,Montgomery,AL,4/25/2025,4/25/2025,250,Dry Van,On Time,366.67,445.45,37.87,25
+SHP0519,"Peterson, Snyder and Torres",Mobile,AL,Shreveport,LA,6/26/2025,6/26/2025,1963,Dry Van,Delayed,2953.02,3511.53,340.45,241
+SHP0520,"Sanchez, Foster and Martinez",Savannah,GA,Columbia,SC,5/9/2025,5/9/2025,1167,Refrigerated,Delayed,1885.65,2265.40,163.93,167
+SHP0521,"Ellis, Myers and Cummings",Baton Rouge,LA,Gulfport,MS,3/11/2025,3/11/2025,1708,Dry Van,On Time,2104.76,2464.92,254.34,41
+SHP0522,Austin and Sons,Columbia,SC,Atlanta,GA,5/30/2025,5/30/2025,1966,Refrigerated,On Time,2955.88,4115.64,287.05,139
+SHP0523,Todd Group,Columbia,SC,Greensboro,NC,8/2/2025,8/2/2025,138,Refrigerated,On Time,180.33,227.18,20.81,16
+SHP0524,Graham and Sons,Tampa,FL,Little Rock,AR,4/5/2025,4/5/2025,1632,Dry Van,On Time,2105.47,2525.77,270.80,133
+SHP0525,Murray and Sons,Mobile,AL,Knoxville,TN,6/26/2025,6/26/2025,1184,Flatbed,Cancelled,1487.02,2071.59,170.13,137
+SHP0526,"Gibson, Obrien and Moss",Knoxville,TN,Atlanta,GA,7/21/2025,7/21/2025,105,Refrigerated,Delayed,141.40,172.94,16.95,6
+SHP0527,"Wilson, Davis and Boyle",Birmingham,AL,Jackson,MS,6/2/2025,6/2/2025,864,Flatbed,On Time,1405.46,1723.01,139.61,53
+SHP0528,"Mcbride, Johnson and Walker",Augusta,GA,New Orleans,LA,2/26/2025,2/26/2025,1625,Flatbed,On Time,2652.81,3261.46,277.32,61
+SHP0529,Oneill-Perry,Jackson,MS,Dallas,TX,6/1/2025,6/1/2025,848,Dry Van,On Time,1140.04,1427.79,131.99,96
+SHP0530,Russell-Ramos,Raleigh,NC,Charleston,SC,7/28/2025,7/28/2025,1588,Flatbed,On Time,2536.37,3165.52,242.52,216
+SHP0531,"Mccormick, Thompson and Jackson",Jackson,MS,Augusta,GA,2/13/2025,2/13/2025,1053,Dry Van,On Time,1848.98,2467.26,158.71,119
+SHP0532,Thompson Ltd,Memphis,TN,Greensboro,NC,5/12/2025,5/16/2025,1391,Dry Van,On Time,2490.05,3202.91,200.01,33
+SHP0533,Harrison Group,Memphis,TN,Gulfport,MS,6/8/2025,6/8/2025,840,Refrigerated,On Time,1364.27,1607.83,139.39,48
+SHP0534,"Hart, Rios and Miller",Montgomery,AL,Miami,FL,6/1/2025,6/1/2025,877,Refrigerated,On Time,1264.59,1746.79,121.86,58
+SHP0535,Hopkins-Mercer,Orlando,FL,Gulfport,MS,4/24/2025,4/24/2025,1478,Refrigerated,On Time,1850.04,2290.29,258.20,194
+SHP0536,"Jones, Hernandez and Williams",Montgomery,AL,Atlanta,GA,6/20/2025,6/20/2025,687,Dry Van,On Time,1182.95,1522.88,100.67,33
+SHP0537,"Walton, Davis and Kaiser",Orlando,FL,Mobile,AL,6/29/2025,6/29/2025,1147,Dry Van,On Time,1653.63,2087.01,171.87,92
+SHP0538,"Jones, Woodward and Richardson",New Orleans,LA,Nashville,TN,4/15/2025,4/15/2025,1071,Flatbed,Delayed,1625.84,2263.84,168.43,111
+SHP0539,"Russell, Murphy and Pratt",Miami,FL,Hattiesburg,MS,2/17/2025,2/17/2025,432,Dry Van,On Time,639.70,825.23,73.11,51
+SHP0540,"Cole, Anderson and Ward",Montgomery,AL,Atlanta,GA,7/27/2025,7/27/2025,747,Flatbed,Delayed,1335.92,1829.29,127.84,104
+SHP0541,Harris-Boyd,Tampa,FL,Savannah,GA,7/12/2025,7/12/2025,1187,Refrigerated,On Time,1526.38,1877.96,185.89,74
+SHP0542,Massey LLC,New Orleans,LA,Orlando,FL,4/16/2025,4/16/2025,1068,Refrigerated,Delayed,1403.52,1865.51,162.02,120
+SHP0543,Reynolds-Wheeler,Atlanta,GA,Little Rock,AR,6/17/2025,6/17/2025,1761,Flatbed,On Time,2462.86,3416.97,292.14,217
+SHP0544,Smith Ltd,Charlotte,NC,Augusta,GA,3/22/2025,3/22/2025,1994,Refrigerated,On Time,3472.04,4778.28,349.50,290
+SHP0545,"Casey, Wise and Rose",Charleston,SC,Mobile,AL,4/18/2025,4/18/2025,1905,Flatbed,On Time,2481.85,3215.88,314.93,181
+SHP0546,Alexander Inc,Greenville,SC,Tampa,FL,7/3/2025,7/4/2025,611,Flatbed,On Time,755.77,986.67,107.77,65
+SHP0547,King-Lee,Charleston,SC,Miami,FL,4/9/2025,4/9/2025,593,Flatbed,Delayed,963.02,1239.28,99.86,80
+SHP0548,"Donaldson, Stark and Hunter",Montgomery,AL,Greenville,SC,8/2/2025,8/2/2025,721,Refrigerated,On Time,958.40,1303.52,116.13,65
+SHP0549,Hebert and Sons,Atlanta,GA,Tampa,FL,4/19/2025,4/19/2025,333,Refrigerated,On Time,433.65,543.00,49.95,22
+SHP0550,"Yang, Coleman and Conley",Little Rock,AR,Atlanta,GA,7/7/2025,7/7/2025,673,Refrigerated,Delayed,1007.16,1267.85,116.77,29
+SHP0551,Gordon Inc,Miami,FL,Dallas,TX,2/13/2025,2/17/2025,1986,Dry Van,On Time,3349.62,4404.67,300.31,89
+SHP0552,King PLC,Nashville,TN,Greenville,SC,3/14/2025,3/14/2025,1257,Refrigerated,Delayed,1805.33,2370.89,223.59,103
+SHP0553,"Davenport, Murray and Harris",Miami,FL,Memphis,TN,5/3/2025,5/3/2025,1544,Flatbed,On Time,1881.59,2436.68,218.35,193
+SHP0554,"Martinez, Cruz and Dominguez",Houston,TX,Baton Rouge,LA,2/24/2025,2/24/2025,651,Dry Van,On Time,879.51,1201.57,108.98,40
+SHP0555,"Carr, Hartman and Payne",Atlanta,GA,Miami,FL,6/16/2025,6/16/2025,888,Flatbed,On Time,1563.46,1876.47,160.76,126
+SHP0556,Dalton-Hamilton,Columbia,SC,New Orleans,LA,4/12/2025,4/12/2025,1269,Refrigerated,On Time,1969.92,2530.01,216.35,45
+SHP0557,"Brock, Lee and Hamilton",Atlanta,GA,Greenville,SC,4/30/2025,4/30/2025,836,Refrigerated,Delayed,1491.86,1755.49,115.72,124
+SHP0558,Garcia Ltd,Miami,FL,Hattiesburg,MS,6/30/2025,6/30/2025,876,Flatbed,On Time,1334.19,1719.68,117.82,117
+SHP0559,Schroeder-Hernandez,Knoxville,TN,San Antonio,TX,2/25/2025,2/25/2025,491,Flatbed,On Time,876.50,1188.80,83.21,41
+SHP0560,"Johnson, Gray and Johnson",Montgomery,AL,Miami,FL,5/8/2025,5/10/2025,1406,Flatbed,On Time,2000.41,2528.69,217.33,136
+SHP0561,West Ltd,Savannah,GA,Charlotte,NC,7/13/2025,7/13/2025,564,Dry Van,On Time,902.76,1097.91,84.20,52
+SHP0562,Howard Inc,Miami,FL,Savannah,GA,2/23/2025,2/23/2025,1476,Refrigerated,Cancelled,1945.64,2606.11,206.69,114
+SHP0563,Williams and Sons,Dallas,TX,Orlando,FL,3/8/2025,3/8/2025,1206,Refrigerated,On Time,1687.01,2330.89,169.91,149
+SHP0564,Moore-Gonzalez,San Antonio,TX,Shreveport,LA,3/18/2025,3/18/2025,1692,Refrigerated,On Time,2626.79,3149.24,265.25,183
+SHP0565,Bowen-Simmons,Columbia,SC,Fort Smith,AR,6/9/2025,6/9/2025,242,Dry Van,Delayed,319.58,400.29,34.03,34
+SHP0566,Montoya and Sons,San Antonio,TX,Greenville,SC,3/29/2025,3/29/2025,104,Refrigerated,On Time,138.54,169.93,18.62,2
+SHP0567,"Kirby, Hamilton and Strong",Raleigh,NC,Fayetteville,AR,4/21/2025,4/21/2025,489,Refrigerated,On Time,630.92,767.90,66.50,32
+SHP0568,"Simmons, Carson and Walsh",Memphis,TN,Birmingham,AL,2/19/2025,2/19/2025,1594,Dry Van,On Time,2344.85,2971.72,217.73,206
+SHP0569,Lopez LLC,Gulfport,MS,Birmingham,AL,7/31/2025,8/2/2025,512,Refrigerated,Cancelled,746.31,937.43,90.23,16
+SHP0570,"Warren, Mack and Johnson",Houston,TX,Fort Smith,AR,2/26/2025,2/26/2025,1062,Refrigerated,On Time,1290.91,1736.80,142.66,22
+SHP0571,Pierce-Flynn,Fort Smith,AR,Atlanta,GA,2/27/2025,2/27/2025,1502,Dry Van,On Time,1810.37,2242.77,265.97,200
+SHP0572,Jones Ltd,Savannah,GA,Nashville,TN,5/26/2025,5/26/2025,355,Flatbed,On Time,496.93,647.45,64.26,52
+SHP0573,"Taylor, Lutz and Wallace",Memphis,TN,Tampa,FL,6/21/2025,6/21/2025,1055,Dry Van,On Time,1752.48,2381.83,168.88,58
+SHP0574,Lowery-Braun,Charlotte,NC,Montgomery,AL,6/26/2025,6/28/2025,546,Refrigerated,On Time,851.57,1098.21,84.85,67
+SHP0575,"Brown, Sparks and Gillespie",Columbia,SC,Birmingham,AL,5/28/2025,5/28/2025,867,Refrigerated,On Time,1345.38,1776.29,153.79,96
+SHP0576,"Wilkins, Collins and Richardson",Atlanta,GA,Fayetteville,AR,4/9/2025,4/9/2025,1022,Flatbed,On Time,1438.74,1761.13,144.18,51
+SHP0577,Chandler-Lopez,Nashville,TN,Hattiesburg,MS,5/25/2025,5/25/2025,525,Dry Van,On Time,729.90,855.39,74.22,55
+SHP0578,Williams-Woods,Savannah,GA,Baton Rouge,LA,3/29/2025,3/29/2025,660,Flatbed,On Time,858.07,1114.92,105.54,27
+SHP0579,"Wright, Mcintyre and Thomas",Mobile,AL,Greenville,SC,6/23/2025,6/27/2025,1796,Refrigerated,On Time,2439.95,3183.39,319.62,219
+SHP0580,King-Kennedy,Charlotte,NC,Hattiesburg,MS,5/1/2025,5/1/2025,1350,Flatbed,On Time,2226.82,2714.07,207.71,130
+SHP0581,Allen-Perkins,Jackson,MS,Greensboro,NC,8/1/2025,8/1/2025,986,Refrigerated,On Time,1338.14,1638.42,136.39,68
+SHP0582,Spencer PLC,Shreveport,LA,Birmingham,AL,5/9/2025,5/9/2025,761,Dry Van,On Time,1108.02,1546.12,124.53,26
+SHP0583,Watson-Sutton,Greenville,SC,Tampa,FL,7/3/2025,7/3/2025,1727,Refrigerated,On Time,2439.61,3408.64,297.41,233
+SHP0584,Barton-Gordon,Jackson,MS,Charlotte,NC,3/25/2025,3/25/2025,1085,Dry Van,On Time,1312.17,1533.30,175.63,92
+SHP0585,Brown Inc,Greenville,SC,Jackson,MS,7/6/2025,7/6/2025,1615,Flatbed,On Time,2420.78,3134.36,227.20,128
+SHP0586,Brown Inc,Orlando,FL,Birmingham,AL,6/12/2025,6/12/2025,1827,Refrigerated,On Time,2524.74,3065.53,258.07,58
+SHP0587,Morgan and Sons,Charlotte,NC,Savannah,GA,5/13/2025,5/17/2025,1740,Refrigerated,On Time,2942.06,3895.71,292.61,157
+SHP0588,Giles and Sons,Baton Rouge,LA,Montgomery,AL,5/25/2025,5/29/2025,1117,Refrigerated,On Time,1812.39,2410.71,173.12,126
+SHP0589,Williams Ltd,Birmingham,AL,New Orleans,LA,5/30/2025,5/30/2025,1680,Dry Van,On Time,2100.01,2758.96,278.90,146
+SHP0590,Bush LLC,Birmingham,AL,Charlotte,NC,7/21/2025,7/21/2025,471,Refrigerated,On Time,791.22,947.87,69.03,70
+SHP0591,Jones-Rosario,Greensboro,NC,Savannah,GA,5/7/2025,5/7/2025,568,Refrigerated,On Time,1020.69,1250.78,81.21,19
+SHP0592,Woods Inc,Fort Smith,AR,Gulfport,MS,6/19/2025,6/19/2025,300,Refrigerated,On Time,462.63,568.87,42.18,43
+SHP0593,Garner Inc,Birmingham,AL,San Antonio,TX,5/19/2025,5/19/2025,333,Dry Van,On Time,567.40,676.64,47.62,47
+SHP0594,"West, Todd and Vaughan",Tampa,FL,Little Rock,AR,7/10/2025,7/10/2025,108,Dry Van,On Time,184.22,223.64,17.27,12
+SHP0595,Good Ltd,Baton Rouge,LA,Jackson,MS,6/17/2025,6/17/2025,904,Flatbed,On Time,1520.08,1818.32,161.52,81
+SHP0596,"Arias, Carroll and Martin",Atlanta,GA,Gulfport,MS,6/18/2025,6/18/2025,1143,Flatbed,Delayed,2000.12,2779.24,176.00,45
+SHP0597,Walter Inc,Birmingham,AL,Fayetteville,AR,2/28/2025,2/28/2025,1475,Dry Van,Delayed,2407.92,3359.39,227.31,102
+SHP0598,Russell-Dawson,Birmingham,AL,Charleston,SC,3/31/2025,3/31/2025,759,Flatbed,On Time,1016.28,1290.68,117.70,36
+SHP0599,"Ortiz, Thompson and Ford",Fort Smith,AR,Hattiesburg,MS,3/30/2025,4/5/2025,1042,Refrigerated,Delayed,1864.24,2157.25,139.36,24
+SHP0600,Rangel-Hartman,Augusta,GA,Nashville,TN,5/10/2025,5/10/2025,264,Flatbed,On Time,317.09,425.81,39.87,6
+SHP0601,Diaz PLC,Raleigh,NC,Charleston,SC,7/14/2025,7/14/2025,1049,Flatbed,Delayed,1601.29,1964.90,148.20,137
+SHP0602,"Norris, Dean and Richard",Gulfport,MS,Charleston,SC,3/14/2025,3/14/2025,1774,Dry Van,Delayed,2242.33,3065.63,302.92,47
+SHP0603,Maxwell-Taylor,Birmingham,AL,Tampa,FL,4/22/2025,4/22/2025,1423,Dry Van,Delayed,1718.73,2099.11,209.46,198
+SHP0604,Murray Ltd,Montgomery,AL,Miami,FL,4/11/2025,4/11/2025,1247,Flatbed,On Time,1774.06,2233.12,168.96,58
+SHP0605,"Burke, Gray and Rhodes",Gulfport,MS,Savannah,GA,6/19/2025,6/19/2025,709,Flatbed,Delayed,1075.64,1242.91,102.75,61
+SHP0606,Thomas-Gutierrez,Tampa,FL,Savannah,GA,7/17/2025,7/17/2025,1030,Refrigerated,On Time,1408.45,1657.70,168.05,72
+SHP0607,"Wheeler, Lamb and Wagner",Birmingham,AL,Shreveport,LA,5/18/2025,5/18/2025,364,Dry Van,On Time,507.43,673.26,61.32,28
+SHP0608,Day LLC,Houston,TX,Savannah,GA,7/22/2025,7/22/2025,139,Flatbed,On Time,248.51,332.98,21.91,7
+SHP0609,"Wagner, Sanders and Ingram",Tampa,FL,Baton Rouge,LA,6/17/2025,6/17/2025,1711,Refrigerated,On Time,2973.20,4161.20,276.32,209
+SHP0610,Valdez-Lucas,Augusta,GA,Miami,FL,5/27/2025,6/1/2025,1621,Flatbed,On Time,2195.36,2587.87,272.00,33
+SHP0611,Thomas Group,Nashville,TN,Orlando,FL,6/7/2025,6/7/2025,1030,Flatbed,Cancelled,1624.03,2237.41,141.15,72
+SHP0612,Figueroa-Hickman,Hattiesburg,MS,Nashville,TN,4/10/2025,4/10/2025,194,Flatbed,On Time,343.09,456.04,26.05,23
+SHP0613,Decker Ltd,Raleigh,NC,Fayetteville,AR,5/17/2025,5/17/2025,1149,Refrigerated,On Time,2063.51,2866.10,207.40,151
+SHP0614,Smith PLC,Hattiesburg,MS,Charleston,SC,4/5/2025,4/5/2025,138,Flatbed,On Time,198.23,249.61,21.16,12
+SHP0615,Davenport Inc,Gulfport,MS,Fort Smith,AR,3/4/2025,3/4/2025,217,Refrigerated,On Time,355.16,455.43,39.34,17
+SHP0616,Tanner-Jones,Atlanta,GA,San Antonio,TX,6/1/2025,6/1/2025,413,Flatbed,On Time,555.17,711.03,55.11,51
+SHP0617,Flores-Rice,Montgomery,AL,Tampa,FL,3/24/2025,3/24/2025,1451,Dry Van,On Time,2205.01,2543.73,239.24,81
+SHP0618,Bauer Group,Columbia,SC,Augusta,GA,6/11/2025,6/11/2025,1159,Refrigerated,On Time,1855.25,2432.01,174.28,146
+SHP0619,Bates-Hernandez,Shreveport,LA,Little Rock,AR,6/23/2025,6/23/2025,414,Dry Van,On Time,651.71,784.70,70.71,53
+SHP0620,"Levy, Wilson and Walker",Savannah,GA,Raleigh,NC,6/7/2025,6/12/2025,1335,Refrigerated,On Time,2392.70,3129.04,203.47,149
+SHP0621,"Spencer, Mora and Collins",Fayetteville,AR,Greenville,SC,7/8/2025,7/8/2025,1204,Dry Van,On Time,2025.42,2418.52,205.00,176
+SHP0622,Garcia and Sons,Little Rock,AR,Memphis,TN,3/1/2025,3/1/2025,1575,Refrigerated,Delayed,2746.98,3479.05,252.29,115
+SHP0623,"Garner, Kennedy and Brown",Fayetteville,AR,Houston,TX,6/27/2025,6/27/2025,703,Refrigerated,On Time,1144.71,1322.04,103.33,45
+SHP0624,"Gutierrez, Alvarez and Francis",Fayetteville,AR,Knoxville,TN,6/10/2025,6/15/2025,302,Flatbed,On Time,388.64,508.44,44.86,43
+SHP0625,Bradley Ltd,Greenville,SC,Gulfport,MS,8/3/2025,8/3/2025,824,Refrigerated,Delayed,1111.55,1366.91,137.88,34
+SHP0626,"Case, Huffman and Oconnor",Mobile,AL,Fort Smith,AR,2/22/2025,2/22/2025,1142,Flatbed,On Time,1796.00,2350.04,154.77,166
+SHP0627,"Cooper, Fuller and Martinez",Birmingham,AL,Charleston,SC,7/11/2025,7/11/2025,1412,Flatbed,On Time,1751.93,2294.22,221.42,64
+SHP0628,Clark-Boyer,Mobile,AL,Charlotte,NC,6/29/2025,7/3/2025,1694,Refrigerated,Delayed,2066.59,2729.30,241.84,103
+SHP0629,Bell Group,Dallas,TX,New Orleans,LA,6/6/2025,6/6/2025,158,Flatbed,On Time,237.79,303.21,21.75,5
+SHP0630,Hernandez PLC,Houston,TX,Fort Smith,AR,7/13/2025,7/13/2025,1779,Refrigerated,Cancelled,2568.71,3535.06,260.63,138
+SHP0631,Zhang Inc,Gulfport,MS,Charleston,SC,3/16/2025,3/16/2025,213,Refrigerated,Delayed,337.82,448.48,35.65,9
+SHP0632,"Dickerson, Morales and Peterson",Memphis,TN,Raleigh,NC,3/2/2025,3/2/2025,581,Dry Van,On Time,947.23,1209.34,82.79,27
+SHP0633,Williams PLC,Montgomery,AL,Jackson,MS,5/31/2025,5/31/2025,673,Flatbed,On Time,1174.73,1609.12,104.63,76
+SHP0634,Johnson-King,New Orleans,LA,Orlando,FL,3/19/2025,3/19/2025,1732,Dry Van,On Time,2879.55,3642.42,264.88,78
+SHP0635,Martinez PLC,Dallas,TX,Tampa,FL,3/18/2025,3/18/2025,471,Refrigerated,On Time,792.21,913.31,83.60,20
+SHP0636,White-Anderson,Fort Smith,AR,Nashville,TN,6/13/2025,6/13/2025,714,Refrigerated,On Time,1149.52,1460.72,128.55,17
+SHP0637,"Hernandez, Greene and Gibbs",Columbia,SC,Tampa,FL,6/11/2025,6/16/2025,1174,Flatbed,On Time,1844.86,2496.97,187.26,162
+SHP0638,"Walker, Aguilar and Harding",Jackson,MS,Mobile,AL,7/10/2025,7/10/2025,428,Dry Van,On Time,695.92,886.57,65.04,14
+SHP0639,"Washington, Berry and Moore",San Antonio,TX,Baton Rouge,LA,4/28/2025,4/28/2025,1469,Dry Van,Delayed,1888.46,2396.32,222.74,154
+SHP0640,Rivera-Rocha,Knoxville,TN,Charlotte,NC,4/24/2025,4/24/2025,1562,Dry Van,On Time,2460.77,3009.93,222.52,180
+SHP0641,"Mcclain, Austin and Mayer",Hattiesburg,MS,Tampa,FL,7/15/2025,7/15/2025,609,Refrigerated,Delayed,985.76,1153.79,104.11,91
+SHP0642,Stevenson-Brown,Raleigh,NC,Little Rock,AR,3/23/2025,3/23/2025,549,Flatbed,On Time,912.20,1204.17,92.83,45
+SHP0643,Huff-James,Birmingham,AL,Gulfport,MS,5/17/2025,5/17/2025,1838,Refrigerated,On Time,2983.37,4074.95,282.45,75
+SHP0644,Reyes-Cohen,Fort Smith,AR,Charleston,SC,4/20/2025,4/20/2025,421,Refrigerated,Delayed,744.85,978.23,57.15,52
+SHP0645,Church-Collier,Charlotte,NC,Tampa,FL,5/20/2025,5/20/2025,165,Flatbed,Delayed,289.16,373.14,23.97,22
+SHP0646,Hill Ltd,Houston,TX,Nashville,TN,7/2/2025,7/2/2025,1431,Flatbed,On Time,1885.67,2454.11,220.22,104
+SHP0647,Schneider-Tanner,Memphis,TN,Hattiesburg,MS,6/23/2025,6/27/2025,659,Flatbed,On Time,1073.14,1300.98,92.27,14
+SHP0648,Robinson LLC,Nashville,TN,Raleigh,NC,8/3/2025,8/3/2025,1149,Refrigerated,Cancelled,1897.69,2219.22,193.68,83
+SHP0649,Giles PLC,Miami,FL,Dallas,TX,8/2/2025,8/5/2025,193,Flatbed,Delayed,255.58,307.23,34.03,21
+SHP0650,"Mueller, Cook and Smith",Knoxville,TN,Miami,FL,6/21/2025,6/21/2025,1376,Refrigerated,On Time,2405.27,3017.12,216.86,171
+SHP0651,Luna-White,Gulfport,MS,San Antonio,TX,5/10/2025,5/10/2025,1948,Flatbed,On Time,2598.48,3598.57,315.13,82
+SHP0652,"Buchanan, Bush and Roth",Baton Rouge,LA,San Antonio,TX,4/5/2025,4/5/2025,700,Dry Van,On Time,982.54,1301.58,102.89,28
+SHP0653,Dunn-Harrison,Greensboro,NC,Nashville,TN,8/10/2025,8/10/2025,1135,Refrigerated,On Time,1385.90,1926.27,178.63,111
+SHP0654,"Thomas, Harris and Meza",Orlando,FL,Greenville,SC,2/23/2025,2/26/2025,1415,Flatbed,On Time,1816.40,2174.44,256.63,211
+SHP0655,Reed-Coleman,Miami,FL,Greensboro,NC,6/30/2025,7/3/2025,328,Flatbed,On Time,464.77,603.78,51.30,19
+SHP0656,Clements PLC,Montgomery,AL,Savannah,GA,7/9/2025,7/9/2025,1162,Refrigerated,On Time,1911.04,2566.98,196.40,51
+SHP0657,Huerta-Alvarez,Augusta,GA,San Antonio,TX,5/22/2025,5/22/2025,1749,Flatbed,Delayed,2544.19,3290.42,309.77,160
+SHP0658,"Saunders, Dean and Knight",Memphis,TN,Gulfport,MS,5/18/2025,5/18/2025,1767,Refrigerated,On Time,2872.57,3396.44,236.92,141
+SHP0659,Rivers-Ruiz,Fort Smith,AR,New Orleans,LA,8/3/2025,8/3/2025,202,Flatbed,Delayed,243.06,318.14,34.61,16
+SHP0660,Holloway and Sons,Montgomery,AL,San Antonio,TX,6/23/2025,6/25/2025,1405,Flatbed,On Time,2078.38,2717.02,219.82,77
+SHP0661,"Butler, Franco and Williams",Orlando,FL,Charlotte,NC,2/13/2025,2/13/2025,789,Dry Van,On Time,1226.06,1509.47,115.88,102
+SHP0662,Barnett-Matthews,Baton Rouge,LA,Memphis,TN,3/1/2025,3/5/2025,289,Flatbed,On Time,417.53,486.14,42.23,18
+SHP0663,"Long, Bernard and Anderson",Raleigh,NC,Fayetteville,AR,4/5/2025,4/5/2025,768,Flatbed,On Time,1137.40,1453.92,103.21,35
+SHP0664,Jones Group,Tampa,FL,Augusta,GA,3/20/2025,3/20/2025,1367,Refrigerated,Delayed,1840.65,2149.16,206.26,201
+SHP0665,Murphy-Gibbs,Hattiesburg,MS,Baton Rouge,LA,6/5/2025,6/5/2025,1095,Dry Van,On Time,1808.80,2440.72,182.92,37
+SHP0666,Nelson and Sons,Greensboro,NC,Augusta,GA,5/14/2025,5/18/2025,1633,Flatbed,On Time,2079.79,2754.64,230.60,149
+SHP0667,Wilson-Nunez,Orlando,FL,New Orleans,LA,3/14/2025,3/14/2025,287,Dry Van,On Time,392.93,544.76,42.58,34
+SHP0668,"Montgomery, Watson and Lopez",Shreveport,LA,Gulfport,MS,2/20/2025,2/20/2025,1154,Flatbed,Delayed,1742.33,2106.30,202.56,96
+SHP0669,"Vargas, Yang and Patel",Little Rock,AR,New Orleans,LA,7/18/2025,7/18/2025,981,Flatbed,On Time,1268.49,1731.04,135.87,66
+SHP0670,Martin PLC,Baton Rouge,LA,Miami,FL,5/28/2025,5/28/2025,924,Dry Van,On Time,1338.97,1756.18,144.12,97
+SHP0671,"Powers, Powell and Cabrera",Charleston,SC,Fort Smith,AR,5/3/2025,5/3/2025,195,Refrigerated,On Time,290.92,391.06,27.38,28
+SHP0672,Sheppard and Sons,Nashville,TN,Gulfport,MS,3/22/2025,3/22/2025,1080,Flatbed,On Time,1443.41,1975.32,144.06,92
+SHP0673,Duran-Vargas,Greenville,SC,Gulfport,MS,3/21/2025,3/21/2025,1256,Flatbed,On Time,1783.70,2423.56,208.75,50
+SHP0674,Thompson-Olsen,Jackson,MS,Birmingham,AL,4/12/2025,4/14/2025,1414,Dry Van,On Time,2507.30,3213.23,235.79,118
+SHP0675,"Sampson, Thompson and Reid",Raleigh,NC,Montgomery,AL,6/12/2025,6/12/2025,606,Refrigerated,On Time,932.26,1255.64,86.23,87
+SHP0676,Rodriguez-James,Montgomery,AL,Orlando,FL,3/9/2025,3/9/2025,854,Refrigerated,On Time,1044.13,1304.83,131.95,55
+SHP0677,Shepherd PLC,New Orleans,LA,Fayetteville,AR,3/16/2025,3/18/2025,1032,Refrigerated,On Time,1801.01,2423.49,177.98,109
+SHP0678,Mayo Ltd,Gulfport,MS,Dallas,TX,5/16/2025,5/16/2025,639,Refrigerated,Delayed,890.40,1036.04,85.70,71
+SHP0679,"Williams, Armstrong and Fox",Savannah,GA,Tampa,FL,7/30/2025,7/31/2025,323,Refrigerated,Delayed,453.96,611.98,57.12,47
+SHP0680,"Webster, Ferrell and Jones",Augusta,GA,San Antonio,TX,2/22/2025,2/22/2025,1324,Refrigerated,On Time,1804.32,2467.52,223.01,147
+SHP0681,"Dougherty, Mitchell and Moore",Jackson,MS,Shreveport,LA,6/4/2025,6/4/2025,1375,Refrigerated,On Time,1710.49,1977.48,240.99,38
+SHP0682,Davis Inc,Mobile,AL,Gulfport,MS,7/5/2025,7/5/2025,367,Dry Van,On Time,542.23,623.75,49.00,13
+SHP0683,"Matthews, Austin and Jenkins",Montgomery,AL,Jackson,MS,4/1/2025,4/1/2025,1736,Dry Van,Delayed,2250.95,3136.96,231.72,115
+SHP0684,"Jackson, Gomez and Carroll",Savannah,GA,Raleigh,NC,7/17/2025,7/17/2025,911,Refrigerated,Cancelled,1466.90,1807.53,127.49,45
+SHP0685,"Cunningham, Moore and Berry",Gulfport,MS,Montgomery,AL,4/24/2025,4/24/2025,1737,Dry Van,On Time,2300.28,2932.55,287.72,77
+SHP0686,Johnson Ltd,Little Rock,AR,Knoxville,TN,4/13/2025,4/13/2025,1692,Flatbed,On Time,2499.20,3221.02,230.25,227
+SHP0687,Cantrell-Baker,Greensboro,NC,Tampa,FL,3/19/2025,3/19/2025,1438,Refrigerated,On Time,2423.51,3282.49,209.22,86
+SHP0688,Booth-Tyler,Baton Rouge,LA,Jackson,MS,7/26/2025,7/26/2025,435,Flatbed,On Time,733.53,905.51,61.02,15
+SHP0689,"Mason, Hunter and Brennan",Houston,TX,Savannah,GA,7/8/2025,7/8/2025,1391,Refrigerated,On Time,2502.62,3240.83,244.61,175
+SHP0690,"Washington, Howell and Good",Jackson,MS,Montgomery,AL,7/21/2025,7/21/2025,844,Flatbed,Delayed,1058.43,1429.35,138.81,82
+SHP0691,"Wood, White and Anderson",Fort Smith,AR,Miami,FL,5/18/2025,5/22/2025,1514,Refrigerated,Cancelled,2196.73,2744.19,259.01,166
+SHP0692,Townsend PLC,Memphis,TN,Gulfport,MS,6/30/2025,6/30/2025,614,Dry Van,On Time,765.03,936.20,86.35,32
+SHP0693,"Davis, Lopez and Murray",Gulfport,MS,Shreveport,LA,5/23/2025,5/23/2025,228,Dry Van,On Time,329.17,449.73,33.37,29
+SHP0694,Pruitt-Stewart,Montgomery,AL,Augusta,GA,7/8/2025,7/8/2025,1243,Dry Van,On Time,2208.11,2580.12,200.41,58
+SHP0695,Duffy Inc,Miami,FL,Montgomery,AL,4/30/2025,4/30/2025,107,Refrigerated,On Time,164.92,224.89,18.76,4
+SHP0696,"Green, Boyle and Simmons",Tampa,FL,Hattiesburg,MS,3/20/2025,3/20/2025,121,Refrigerated,On Time,165.45,206.39,18.65,6
+SHP0697,Ramirez-Hahn,Shreveport,LA,Raleigh,NC,4/9/2025,4/9/2025,734,Dry Van,On Time,1139.74,1524.41,122.09,84
+SHP0698,Keith LLC,Montgomery,AL,Augusta,GA,6/24/2025,6/24/2025,164,Dry Van,On Time,226.56,304.05,28.59,12
+SHP0699,Henderson-Daniel,Tampa,FL,Baton Rouge,LA,4/19/2025,4/19/2025,1862,Flatbed,On Time,3096.37,3919.81,256.03,252
+SHP0700,Hopkins-Brown,Charleston,SC,Houston,TX,2/21/2025,2/21/2025,863,Flatbed,On Time,1425.01,1644.63,126.95,55
+SHP0701,"Thompson, Diaz and Rodriguez",Mobile,AL,Fort Smith,AR,2/22/2025,2/22/2025,591,Refrigerated,Delayed,1005.50,1163.67,90.95,59
+SHP0702,Thomas Ltd,Augusta,GA,Montgomery,AL,5/1/2025,5/1/2025,258,Flatbed,On Time,408.11,515.43,42.26,30
+SHP0703,Taylor and Sons,Charleston,SC,Atlanta,GA,8/9/2025,8/10/2025,439,Dry Van,On Time,584.90,706.45,59.38,34
+SHP0704,Figueroa-Fuentes,San Antonio,TX,Columbia,SC,5/28/2025,5/28/2025,632,Refrigerated,On Time,993.01,1182.18,106.93,62
+SHP0705,"Smith, Burgess and Clark",Charleston,SC,Nashville,TN,4/10/2025,4/14/2025,737,Flatbed,On Time,1280.69,1581.71,98.35,70
+SHP0706,Jones and Sons,Atlanta,GA,Nashville,TN,5/7/2025,5/11/2025,139,Refrigerated,On Time,230.20,285.08,19.39,14
+SHP0707,Kelly LLC,Gulfport,MS,Nashville,TN,5/28/2025,5/28/2025,1112,Refrigerated,Delayed,1408.82,1842.02,173.16,147
+SHP0708,Rodriguez PLC,Jackson,MS,Shreveport,LA,7/29/2025,7/29/2025,1821,Flatbed,On Time,2902.98,3759.31,305.65,167
+SHP0709,Wright-Perez,Tampa,FL,Dallas,TX,6/17/2025,6/21/2025,1843,Flatbed,On Time,2886.08,3841.00,307.16,236
+SHP0710,Lee-Brown,Nashville,TN,Miami,FL,4/16/2025,4/16/2025,869,Dry Van,Delayed,1301.72,1752.05,143.69,44
+SHP0711,Ortega-Ford,Raleigh,NC,Augusta,GA,2/18/2025,2/18/2025,649,Refrigerated,On Time,1109.15,1437.91,116.71,51
+SHP0712,Hill Ltd,Hattiesburg,MS,New Orleans,LA,4/4/2025,4/4/2025,1621,Refrigerated,On Time,2677.41,3576.32,259.76,240
+SHP0713,Hill-Abbott,Nashville,TN,Birmingham,AL,6/17/2025,6/17/2025,609,Flatbed,Delayed,1000.63,1207.56,88.03,18
+SHP0714,King-Morgan,Nashville,TN,Montgomery,AL,7/31/2025,7/31/2025,684,Refrigerated,On Time,863.53,1059.07,100.53,36
+SHP0715,Meyer-Leon,Tampa,FL,Columbia,SC,5/17/2025,5/17/2025,407,Refrigerated,Delayed,668.85,861.08,59.46,18
+SHP0716,Wright-Bowen,Houston,TX,Birmingham,AL,5/10/2025,5/10/2025,334,Refrigerated,Cancelled,569.95,747.87,52.17,19
+SHP0717,Spence Ltd,Miami,FL,Greenville,SC,4/25/2025,4/25/2025,1048,Flatbed,On Time,1488.23,1869.84,189.72,77
+SHP0718,Gonzales Inc,Raleigh,NC,San Antonio,TX,7/12/2025,7/12/2025,709,Flatbed,Delayed,1215.79,1461.53,108.72,65
+SHP0719,"Blair, Johnson and Hubbard",Orlando,FL,Houston,TX,6/11/2025,6/11/2025,1633,Dry Van,On Time,2908.92,3519.55,275.78,96
+SHP0720,"Ramirez, Pittman and Davis",Greenville,SC,Montgomery,AL,4/28/2025,4/28/2025,652,Flatbed,On Time,1028.86,1347.10,88.13,28
+SHP0721,Ayala-Gutierrez,Houston,TX,Greensboro,NC,3/10/2025,3/10/2025,1929,Flatbed,Delayed,3192.94,3830.02,261.53,72
+SHP0722,Medina-Duarte,Gulfport,MS,Shreveport,LA,5/25/2025,5/25/2025,797,Dry Van,On Time,1121.55,1322.65,134.30,107
+SHP0723,Floyd-Bradley,Columbia,SC,Nashville,TN,3/1/2025,3/1/2025,1138,Refrigerated,On Time,1615.23,2142.84,174.40,134
+SHP0724,"Howard, Brown and Bender",Orlando,FL,Fayetteville,AR,3/30/2025,3/30/2025,989,Flatbed,On Time,1337.99,1715.56,132.83,141
+SHP0725,"Larson, Smith and Hendricks",Mobile,AL,Orlando,FL,7/15/2025,7/15/2025,148,Dry Van,Delayed,244.64,296.06,22.30,14
+SHP0726,Clark-Henry,Nashville,TN,Mobile,AL,5/3/2025,5/3/2025,905,Flatbed,On Time,1614.39,2093.04,122.63,30
+SHP0727,Harris Inc,Columbia,SC,Orlando,FL,6/17/2025,6/17/2025,1057,Flatbed,On Time,1295.82,1506.77,168.69,99
+SHP0728,Carroll-Weaver,San Antonio,TX,Knoxville,TN,2/17/2025,2/17/2025,1125,Dry Van,On Time,2013.87,2628.95,191.81,46
+SHP0729,White-Peters,New Orleans,LA,Little Rock,AR,5/26/2025,5/26/2025,567,Dry Van,Delayed,971.58,1352.68,76.31,44
+SHP0730,Cox-Thomas,Fayetteville,AR,Augusta,GA,8/5/2025,8/5/2025,1993,Refrigerated,On Time,3575.89,4749.60,300.25,89
+SHP0731,Campbell-Morris,Charlotte,NC,New Orleans,LA,4/24/2025,4/24/2025,1327,Dry Van,Delayed,2268.30,2834.23,191.60,75
+SHP0732,"Hahn, Parker and Wood",Nashville,TN,Savannah,GA,6/30/2025,6/30/2025,1822,Flatbed,On Time,3278.95,3943.40,315.69,138
+SHP0733,Williams Inc,New Orleans,LA,Greenville,SC,3/30/2025,3/30/2025,1544,Dry Van,On Time,2032.92,2487.13,230.83,39
+SHP0734,"Riley, Warren and Murphy",Fayetteville,AR,Columbia,SC,5/29/2025,5/29/2025,505,Flatbed,On Time,887.11,1145.57,84.77,22
+SHP0735,Wood-Kim,Charleston,SC,Shreveport,LA,4/13/2025,4/13/2025,1801,Flatbed,Delayed,2506.67,3341.03,313.43,57
+SHP0736,Castro and Sons,Jackson,MS,Columbia,SC,6/30/2025,7/6/2025,495,Refrigerated,Delayed,881.49,1160.97,69.41,20
+SHP0737,"Charles, Moore and Torres",New Orleans,LA,Dallas,TX,3/17/2025,3/17/2025,1593,Flatbed,On Time,2786.56,3888.34,219.91,86
+SHP0738,Fields-Brown,Charleston,SC,Jackson,MS,7/29/2025,7/29/2025,554,Dry Van,Delayed,964.79,1272.47,98.32,75
+SHP0739,Reed-Anderson,Baton Rouge,LA,Knoxville,TN,5/10/2025,5/10/2025,1763,Refrigerated,On Time,2237.51,2848.14,241.27,135
+SHP0740,West-Miranda,Montgomery,AL,Charlotte,NC,3/16/2025,3/16/2025,1956,Flatbed,On Time,2695.83,3675.90,346.34,74
+SHP0741,"Jones, Morris and Hughes",Tampa,FL,Fayetteville,AR,7/24/2025,7/24/2025,473,Flatbed,On Time,576.04,799.28,67.68,40
+SHP0742,Adams-Martin,Fayetteville,AR,San Antonio,TX,3/31/2025,4/5/2025,1234,Refrigerated,On Time,1972.27,2325.98,207.46,50
+SHP0743,Martinez-Norris,Miami,FL,Knoxville,TN,7/28/2025,7/28/2025,716,Dry Van,On Time,982.18,1207.05,117.77,33
+SHP0744,Simmons-Wong,Charleston,SC,Fayetteville,AR,5/12/2025,5/12/2025,1740,Dry Van,On Time,3078.43,3765.17,278.28,152
+SHP0745,Simpson and Sons,Birmingham,AL,Raleigh,NC,4/24/2025,4/24/2025,568,Flatbed,On Time,946.24,1127.31,79.26,84
+SHP0746,Herrera-Flowers,Montgomery,AL,Knoxville,TN,5/9/2025,5/9/2025,761,Refrigerated,On Time,1293.25,1669.77,120.42,91
+SHP0747,Weiss-Robinson,Baton Rouge,LA,Dallas,TX,4/15/2025,4/15/2025,258,Flatbed,On Time,421.33,575.95,38.87,36
+SHP0748,Conley-Taylor,Miami,FL,New Orleans,LA,5/4/2025,5/8/2025,748,Flatbed,Delayed,1249.77,1479.20,102.12,36
+SHP0749,"Price, Young and Valentine",Gulfport,MS,Dallas,TX,4/29/2025,4/29/2025,726,Refrigerated,On Time,978.38,1223.62,101.26,73
+SHP0750,"Thompson, Kirby and Bell",Jackson,MS,Greenville,SC,7/7/2025,7/7/2025,1207,Refrigerated,Cancelled,2154.57,2820.35,189.92,33
+SHP0751,Maldonado Ltd,Augusta,GA,Houston,TX,7/9/2025,7/9/2025,268,Flatbed,On Time,324.09,387.34,48.23,35
+SHP0752,Curry PLC,Augusta,GA,Charlotte,NC,7/8/2025,7/8/2025,1271,Dry Van,On Time,1948.98,2427.19,183.21,31
+SHP0753,Le-Preston,Raleigh,NC,San Antonio,TX,5/19/2025,5/19/2025,466,Dry Van,Delayed,606.51,805.83,73.66,41
+SHP0754,"Hughes, Griffin and James",San Antonio,TX,Nashville,TN,5/1/2025,5/1/2025,1887,Refrigerated,On Time,3151.01,3827.93,330.98,180
+SHP0755,Hubbard Ltd,Knoxville,TN,Augusta,GA,8/1/2025,8/1/2025,1650,Refrigerated,On Time,2209.95,2724.71,263.36,56
+SHP0756,Lewis-Chandler,Shreveport,LA,Augusta,GA,7/2/2025,7/2/2025,658,Refrigerated,On Time,1134.23,1587.71,94.05,83
+SHP0757,Harrington Group,Nashville,TN,Gulfport,MS,7/31/2025,7/31/2025,352,Dry Van,On Time,540.50,657.21,54.40,46
+SHP0758,"Short, Holmes and Rios",Fort Smith,AR,Houston,TX,5/9/2025,5/9/2025,840,Refrigerated,On Time,1338.94,1772.84,134.44,29
+SHP0759,"Floyd, Bradley and Burns",Montgomery,AL,Houston,TX,4/16/2025,4/16/2025,180,Refrigerated,On Time,300.41,362.09,32.26,23
+SHP0760,Norris-Harmon,Savannah,GA,Charleston,SC,3/16/2025,3/16/2025,336,Refrigerated,On Time,442.48,515.74,54.68,42
+SHP0761,"Wilson, Logan and Richard",Baton Rouge,LA,Augusta,GA,8/2/2025,8/2/2025,1834,Flatbed,Delayed,3076.92,3961.81,305.23,55
+SHP0762,Coleman PLC,Atlanta,GA,Mobile,AL,5/28/2025,5/28/2025,279,Flatbed,Delayed,343.21,468.43,40.37,9
+SHP0763,Padilla-Allen,Houston,TX,Savannah,GA,5/26/2025,5/26/2025,1249,Dry Van,On Time,2229.94,3002.72,221.28,154
+SHP0764,"Rodriguez, Hunter and Tucker",Savannah,GA,Mobile,AL,7/13/2025,7/13/2025,1584,Flatbed,On Time,2371.44,3131.49,237.71,176
+SHP0765,"Booth, Crawford and Mcguire",Shreveport,LA,Greensboro,NC,3/1/2025,3/1/2025,1462,Flatbed,Delayed,2339.71,2888.87,248.64,100
+SHP0766,Yates and Sons,Orlando,FL,Dallas,TX,5/18/2025,5/18/2025,618,Refrigerated,On Time,1092.82,1302.85,108.79,40
+SHP0767,Adams Ltd,Columbia,SC,Atlanta,GA,5/22/2025,5/22/2025,840,Dry Van,On Time,1372.08,1766.73,120.11,100
+SHP0768,Mata-White,Shreveport,LA,Fort Smith,AR,8/7/2025,8/7/2025,641,Dry Van,On Time,817.97,1021.71,95.01,14
+SHP0769,Petty and Sons,Houston,TX,New Orleans,LA,3/7/2025,3/7/2025,294,Flatbed,On Time,504.86,659.35,53.30,15
+SHP0770,Camacho and Sons,Knoxville,TN,Charlotte,NC,5/14/2025,5/14/2025,1735,Refrigerated,On Time,3071.40,3687.73,285.90,162
+SHP0771,Robertson PLC,Miami,FL,Baton Rouge,LA,6/4/2025,6/6/2025,1070,Flatbed,On Time,1586.90,1884.46,164.51,137
+SHP0772,Alexander-Higgins,Savannah,GA,Greensboro,NC,5/4/2025,5/4/2025,1064,Flatbed,On Time,1340.66,1631.91,169.29,53
+SHP0773,Wheeler-Miller,Atlanta,GA,Hattiesburg,MS,7/4/2025,7/6/2025,246,Flatbed,On Time,315.47,419.51,40.13,31
+SHP0774,Bowen-Thompson,Hattiesburg,MS,Birmingham,AL,6/14/2025,6/17/2025,1226,Refrigerated,Delayed,1544.11,1852.89,216.08,175
+SHP0775,"Martin, Castro and Willis",Jackson,MS,Baton Rouge,LA,3/7/2025,3/7/2025,356,Dry Van,On Time,537.05,726.77,60.58,7
+SHP0776,"Archer, Brady and Parrish",Atlanta,GA,Tampa,FL,6/24/2025,6/24/2025,1858,Flatbed,Delayed,3120.69,3797.65,310.86,207
+SHP0777,Hudson PLC,Fayetteville,AR,San Antonio,TX,5/14/2025,5/14/2025,936,Refrigerated,On Time,1218.31,1576.99,137.53,103
+SHP0778,"Dixon, Underwood and Rodriguez",Charleston,SC,Memphis,TN,7/16/2025,7/17/2025,788,Refrigerated,On Time,1038.16,1326.11,132.95,115
+SHP0779,Taylor Inc,San Antonio,TX,Fort Smith,AR,2/21/2025,2/21/2025,502,Flatbed,On Time,677.53,934.96,79.79,51
+SHP0780,"Sanchez, Clark and Gordon",Birmingham,AL,Baton Rouge,LA,3/17/2025,3/19/2025,260,Flatbed,Delayed,330.24,453.50,43.24,18
+SHP0781,"Ware, Cooley and Leonard",San Antonio,TX,Shreveport,LA,6/17/2025,6/21/2025,816,Dry Van,On Time,1127.57,1319.52,116.79,82
+SHP0782,"Jones, Williams and Smith",Miami,FL,Charleston,SC,6/20/2025,6/20/2025,1704,Refrigerated,On Time,2774.61,3204.62,252.18,38
+SHP0783,"Sanchez, Nguyen and Craig",Charlotte,NC,Charleston,SC,3/15/2025,3/15/2025,1706,Refrigerated,Cancelled,2431.60,3387.44,287.13,110
+SHP0784,Mooney-Rogers,Orlando,FL,San Antonio,TX,3/29/2025,3/29/2025,1181,Refrigerated,On Time,1693.87,2310.00,175.83,101
+SHP0785,Hall-Hooper,Shreveport,LA,Columbia,SC,3/17/2025,3/17/2025,1429,Dry Van,On Time,2359.30,2827.86,222.58,187
+SHP0786,Johnson-Thomas,Columbia,SC,Greensboro,NC,5/7/2025,5/11/2025,227,Dry Van,On Time,296.06,390.13,37.51,24
+SHP0787,Sanchez-Boyd,Gulfport,MS,Raleigh,NC,4/20/2025,4/25/2025,844,Refrigerated,On Time,1495.94,1766.32,147.38,92
+SHP0788,Reed-Nelson,Tampa,FL,Knoxville,TN,7/2/2025,7/8/2025,280,Dry Van,On Time,339.67,413.06,45.71,27
+SHP0789,Rodriguez-Beltran,Memphis,TN,Charleston,SC,4/18/2025,4/18/2025,599,Refrigerated,On Time,801.93,1073.52,85.14,72
+SHP0790,Coffey-Frederick,New Orleans,LA,Charleston,SC,4/29/2025,4/29/2025,907,Flatbed,On Time,1466.04,1714.72,131.13,124
+SHP0791,Rios-Wolf,Dallas,TX,Augusta,GA,4/12/2025,4/12/2025,284,Dry Van,On Time,491.05,604.34,44.18,20
+SHP0792,Houston LLC,Hattiesburg,MS,Nashville,TN,7/27/2025,7/27/2025,1270,Refrigerated,On Time,2036.20,2616.13,178.17,78
+SHP0793,Melton and Sons,Tampa,FL,Gulfport,MS,6/15/2025,6/18/2025,334,Flatbed,On Time,551.12,643.93,47.88,25
+SHP0794,Jones-Campbell,Greensboro,NC,Atlanta,GA,5/1/2025,5/1/2025,1430,Refrigerated,On Time,2110.44,2562.28,253.24,170
+SHP0795,"Young, Weaver and Levine",Houston,TX,Tampa,FL,5/4/2025,5/4/2025,1276,Refrigerated,On Time,2037.16,2845.00,195.15,187
+SHP0796,White-Mills,Baton Rouge,LA,Greensboro,NC,5/22/2025,5/22/2025,223,Dry Van,On Time,333.58,446.15,32.66,19
+SHP0797,Walker Inc,San Antonio,TX,Greensboro,NC,6/17/2025,6/17/2025,1107,Refrigerated,On Time,1406.56,1778.43,199.25,156
+SHP0798,Wagner PLC,Columbia,SC,Knoxville,TN,5/16/2025,5/20/2025,450,Flatbed,Delayed,588.14,741.20,61.86,65
+SHP0799,Watts Ltd,Fayetteville,AR,Houston,TX,7/19/2025,7/19/2025,1792,Refrigerated,On Time,2428.73,3351.76,316.55,44
+SHP0800,"Fleming, Ayala and Williams",Miami,FL,Savannah,GA,6/19/2025,6/23/2025,1170,Flatbed,Cancelled,1979.43,2568.35,205.21,83
+SHP0801,"Porter, Smith and Diaz",Baton Rouge,LA,Nashville,TN,2/24/2025,2/24/2025,1885,Refrigerated,On Time,2792.54,3384.88,324.13,157
+SHP0802,Davis Ltd,Atlanta,GA,Gulfport,MS,7/12/2025,7/12/2025,137,Refrigerated,On Time,172.99,237.22,20.65,7
+SHP0803,Joseph LLC,Atlanta,GA,Fayetteville,AR,6/10/2025,6/10/2025,245,Flatbed,On Time,388.25,475.14,41.00,33
+SHP0804,Rubio-Pace,Mobile,AL,Nashville,TN,4/14/2025,4/14/2025,548,Flatbed,On Time,862.30,1152.98,76.36,23
+SHP0805,"Young, Johnson and Brown",Columbia,SC,San Antonio,TX,5/14/2025,5/19/2025,646,Flatbed,On Time,1109.98,1543.40,101.23,95
+SHP0806,Mcgee and Sons,New Orleans,LA,Jackson,MS,7/13/2025,7/13/2025,1638,Flatbed,On Time,2888.28,3729.77,241.74,104
+SHP0807,"Robertson, Baker and Ferguson",Dallas,TX,Memphis,TN,4/18/2025,4/18/2025,429,Flatbed,On Time,673.63,844.26,68.50,28
+SHP0808,Lee Inc,Gulfport,MS,Birmingham,AL,5/30/2025,5/30/2025,1190,Refrigerated,On Time,2074.44,2679.98,208.54,90
+SHP0809,"Smith, Cunningham and Sanchez",Greensboro,NC,Shreveport,LA,4/20/2025,4/22/2025,1134,Refrigerated,On Time,1658.37,1950.21,190.25,78
+SHP0810,"Thompson, Simon and Arnold",Hattiesburg,MS,Knoxville,TN,7/20/2025,7/20/2025,342,Flatbed,Delayed,467.07,609.99,60.59,37
+SHP0811,Davis-Dalton,Knoxville,TN,Little Rock,AR,2/25/2025,2/25/2025,1971,Dry Van,On Time,3390.22,4331.59,265.91,83
+SHP0812,Callahan-Allen,Charlotte,NC,San Antonio,TX,3/28/2025,3/31/2025,1698,Refrigerated,On Time,2467.88,2931.09,266.25,154
+SHP0813,Cox Inc,Charlotte,NC,Greenville,SC,4/15/2025,4/15/2025,618,Refrigerated,On Time,976.58,1243.63,89.67,88
+SHP0814,"Pena, Long and Bailey",Gulfport,MS,Miami,FL,3/24/2025,3/24/2025,1650,Dry Van,Cancelled,2405.06,2910.32,249.68,132
+SHP0815,"Walker, Morton and Wallace",Dallas,TX,Charlotte,NC,3/30/2025,3/30/2025,1443,Dry Van,On Time,2016.77,2516.77,235.17,106
+SHP0816,"Hendrix, Fritz and Carr",Augusta,GA,Charleston,SC,6/20/2025,6/25/2025,952,Dry Van,Cancelled,1322.68,1747.64,130.20,68
+SHP0817,West PLC,Miami,FL,Charleston,SC,6/5/2025,6/5/2025,867,Flatbed,On Time,1114.46,1522.91,124.33,68
+SHP0818,"Hill, Hernandez and Brown",Birmingham,AL,Hattiesburg,MS,5/4/2025,5/4/2025,1421,Dry Van,On Time,1760.72,2153.19,249.59,76
+SHP0819,"Hamilton, Floyd and Simmons",Savannah,GA,Miami,FL,5/28/2025,5/28/2025,1447,Dry Van,On Time,1859.87,2169.71,193.33,98
+SHP0820,"Mason, King and Moreno",Atlanta,GA,Greenville,SC,5/4/2025,5/4/2025,1190,Flatbed,Delayed,2004.84,2344.22,207.29,39
+SHP0821,"Fields, Mcclain and Hill",Little Rock,AR,Houston,TX,7/2/2025,7/2/2025,614,Refrigerated,On Time,892.15,1186.84,90.72,84
+SHP0822,Turner PLC,Columbia,SC,Houston,TX,4/18/2025,4/18/2025,1775,Flatbed,Delayed,2906.64,3359.00,256.61,107
+SHP0823,Nguyen-West,Hattiesburg,MS,New Orleans,LA,5/20/2025,5/20/2025,155,Refrigerated,Delayed,253.28,292.55,21.92,17
+SHP0824,"Eaton, Miller and Moore",Shreveport,LA,Raleigh,NC,8/7/2025,8/11/2025,831,Flatbed,Delayed,1311.92,1551.06,142.02,58
+SHP0825,"Kim, Bradley and Sanchez",Shreveport,LA,Fort Smith,AR,2/24/2025,2/24/2025,1495,Dry Van,On Time,2024.24,2509.38,241.65,209
+SHP0826,Farmer Ltd,Fort Smith,AR,Dallas,TX,7/16/2025,7/16/2025,1853,Flatbed,On Time,2885.57,3488.67,278.83,61
+SHP0827,Barnett PLC,San Antonio,TX,Augusta,GA,2/22/2025,2/22/2025,858,Flatbed,On Time,1179.40,1615.97,134.37,26
+SHP0828,"Diaz, Davis and White",Miami,FL,Augusta,GA,6/12/2025,6/12/2025,1860,Refrigerated,Delayed,2960.95,4095.14,281.62,214
+SHP0829,Smith PLC,Jackson,MS,Tampa,FL,3/27/2025,3/27/2025,1112,Flatbed,On Time,1734.40,2081.80,159.57,128
+SHP0830,Beck Inc,Miami,FL,Columbia,SC,3/12/2025,3/14/2025,170,Dry Van,On Time,212.10,276.66,29.59,24
+SHP0831,Robertson-Finley,Memphis,TN,Jackson,MS,7/12/2025,7/12/2025,1294,Refrigerated,On Time,1819.39,2281.57,194.36,174
+SHP0832,Brown Inc,Greenville,SC,Fort Smith,AR,6/26/2025,6/26/2025,1537,Flatbed,On Time,2024.74,2731.72,218.92,110
+SHP0833,Hoffman Ltd,Dallas,TX,Shreveport,LA,8/9/2025,8/9/2025,1053,Flatbed,On Time,1543.29,2024.86,166.08,106
+SHP0834,"Barber, Harrington and Novak",Orlando,FL,San Antonio,TX,2/15/2025,2/15/2025,1155,Flatbed,On Time,1508.14,1909.15,179.20,71
+SHP0835,"Deleon, Clements and Vasquez",Baton Rouge,LA,Greenville,SC,4/8/2025,4/8/2025,219,Dry Van,Delayed,301.23,374.37,31.42,30
+SHP0836,Roberts PLC,New Orleans,LA,Houston,TX,4/29/2025,4/29/2025,290,Flatbed,On Time,472.05,618.67,50.13,29
+SHP0837,Montoya-Lowery,Houston,TX,Gulfport,MS,5/15/2025,5/17/2025,464,Refrigerated,On Time,638.27,857.83,78.61,18
+SHP0838,Holland-Schmitt,Fort Smith,AR,Hattiesburg,MS,3/6/2025,3/6/2025,1552,Refrigerated,On Time,2114.04,2615.13,224.62,73
+SHP0839,Martin-Miller,Gulfport,MS,Raleigh,NC,6/27/2025,6/27/2025,497,Flatbed,On Time,620.64,772.32,70.07,67
+SHP0840,Cox PLC,Dallas,TX,Charlotte,NC,4/27/2025,4/27/2025,1910,Flatbed,On Time,3239.56,4064.19,261.23,189
+SHP0841,"Weaver, Peterson and Torres",Knoxville,TN,Savannah,GA,5/24/2025,5/24/2025,1167,Refrigerated,On Time,1947.97,2322.18,157.66,92
+SHP0842,"Davis, Snyder and Gallagher",Knoxville,TN,Little Rock,AR,2/14/2025,2/14/2025,922,Refrigerated,On Time,1313.03,1745.35,135.44,136
+SHP0843,Lowe PLC,Charleston,SC,Jackson,MS,7/1/2025,7/1/2025,1391,Refrigerated,Delayed,2472.35,2856.20,243.85,59
+SHP0844,"Moore, Golden and Garcia",San Antonio,TX,Charlotte,NC,4/20/2025,4/20/2025,1683,Dry Van,Delayed,2993.84,3483.94,232.73,142
+SHP0845,"Howard, Kim and Gonzalez",Charlotte,NC,Orlando,FL,8/8/2025,8/8/2025,1977,Flatbed,On Time,2626.74,3402.16,267.11,199
+SHP0846,Banks-Fitzpatrick,Birmingham,AL,Memphis,TN,3/3/2025,3/3/2025,1349,Dry Van,Cancelled,1884.37,2583.59,185.49,62
+SHP0847,Dunn PLC,Shreveport,LA,Raleigh,NC,8/6/2025,8/9/2025,1285,Dry Van,On Time,1786.71,2300.48,226.01,140
+SHP0848,"Ramirez, Melendez and Bradshaw",Mobile,AL,Gulfport,MS,3/1/2025,3/1/2025,326,Dry Van,Delayed,515.92,612.45,58.10,13
+SHP0849,Cole-Carrillo,Augusta,GA,Birmingham,AL,4/5/2025,4/5/2025,491,Refrigerated,Delayed,739.93,940.84,86.47,17
+SHP0850,Munoz Ltd,Nashville,TN,San Antonio,TX,4/28/2025,5/2/2025,243,Dry Van,On Time,340.53,454.05,39.72,32
+SHP0851,Andrews Group,Raleigh,NC,Birmingham,AL,2/24/2025,3/1/2025,1742,Dry Van,On Time,2365.29,3073.06,239.93,52
+SHP0852,Duke and Sons,Gulfport,MS,Knoxville,TN,3/19/2025,3/19/2025,1746,Dry Van,Delayed,2472.02,3138.93,266.94,175
+SHP0853,"Bullock, Goodwin and Tran",Greensboro,NC,Little Rock,AR,3/11/2025,3/11/2025,1929,Flatbed,On Time,2569.69,3053.00,302.79,203
+SHP0854,Cortez-Maldonado,Shreveport,LA,Hattiesburg,MS,3/5/2025,3/5/2025,329,Dry Van,On Time,554.39,766.89,49.39,49
+SHP0855,"Johnson, Rivera and Henry",Miami,FL,Atlanta,GA,2/25/2025,2/25/2025,516,Dry Van,On Time,849.96,1182.97,90.12,14
+SHP0856,"Watson, Warren and Berry",Jackson,MS,Dallas,TX,3/9/2025,3/9/2025,1043,Dry Van,Delayed,1396.32,1652.33,162.92,44
+SHP0857,"Riley, Barnes and Gould",Atlanta,GA,Tampa,FL,8/5/2025,8/5/2025,1862,Dry Van,On Time,2998.75,3724.46,278.76,75
+SHP0858,Smith-Martinez,Houston,TX,Gulfport,MS,4/5/2025,4/8/2025,687,Dry Van,On Time,1108.86,1447.56,97.37,83
+SHP0859,"Ali, Levine and Mendoza",Greenville,SC,Shreveport,LA,4/19/2025,4/19/2025,1390,Dry Van,On Time,2344.62,2698.84,220.85,51
+SHP0860,Lawson PLC,San Antonio,TX,Fort Smith,AR,5/16/2025,5/16/2025,987,Refrigerated,On Time,1544.43,2017.57,131.83,105
+SHP0861,Hoover-Jones,Orlando,FL,Nashville,TN,5/1/2025,5/4/2025,1477,Dry Van,On Time,2046.95,2546.22,218.39,141
+SHP0862,"Williams, Matthews and Richardson",Fort Smith,AR,New Orleans,LA,8/6/2025,8/6/2025,1472,Flatbed,On Time,2045.06,2614.06,216.80,133
+SHP0863,Nelson-Wright,Charlotte,NC,Nashville,TN,6/12/2025,6/12/2025,899,Dry Van,Delayed,1221.57,1541.28,131.72,33
+SHP0864,Jefferson-Trevino,Jackson,MS,Shreveport,LA,5/10/2025,5/10/2025,1276,Flatbed,On Time,2268.92,2651.84,210.84,161
+SHP0865,"Taylor, Davis and Brown",Fort Smith,AR,Hattiesburg,MS,7/4/2025,7/8/2025,566,Dry Van,On Time,682.21,853.87,78.07,45
+SHP0866,Wallace-Martinez,Birmingham,AL,Nashville,TN,7/12/2025,7/12/2025,1734,Refrigerated,On Time,2205.23,2905.18,256.06,168
+SHP0867,"Evans, Marshall and Anderson",Raleigh,NC,Tampa,FL,5/19/2025,5/19/2025,1440,Refrigerated,On Time,1894.23,2461.63,235.74,41
+SHP0868,Montgomery Ltd,Nashville,TN,Fort Smith,AR,6/12/2025,6/12/2025,360,Refrigerated,On Time,638.99,868.91,63.74,13
+SHP0869,Mueller LLC,Montgomery,AL,Fayetteville,AR,7/7/2025,7/10/2025,1992,Flatbed,On Time,2639.26,3083.93,282.82,242
+SHP0870,Wallace Inc,Mobile,AL,Shreveport,LA,7/1/2025,7/1/2025,489,Flatbed,On Time,829.64,1085.80,85.48,72
+SHP0871,Mclean-Estrada,Montgomery,AL,Raleigh,NC,7/16/2025,7/16/2025,1573,Dry Van,On Time,2808.61,3236.43,248.04,65
+SHP0872,Lucas PLC,Shreveport,LA,Houston,TX,5/7/2025,5/7/2025,316,Dry Van,On Time,428.24,584.21,55.78,29
+SHP0873,Rodriguez-Henderson,San Antonio,TX,Miami,FL,2/16/2025,2/16/2025,1665,Dry Van,On Time,2503.66,2988.05,240.46,157
+SHP0874,Garcia PLC,Fort Smith,AR,Greenville,SC,4/9/2025,4/9/2025,1853,Dry Van,Cancelled,2395.01,2759.48,263.43,266
+SHP0875,"King, May and Perry",Charlotte,NC,Charleston,SC,4/9/2025,4/9/2025,1697,Refrigerated,On Time,2492.40,3450.80,304.85,93
+SHP0876,"Davis, Washington and Brown",Nashville,TN,Gulfport,MS,4/2/2025,4/2/2025,756,Flatbed,On Time,909.05,1146.97,113.29,82
+SHP0877,Clark Inc,Augusta,GA,Memphis,TN,5/30/2025,5/30/2025,717,Dry Van,On Time,1202.39,1549.98,120.36,31
+SHP0878,Schultz Group,Charleston,SC,Birmingham,AL,3/11/2025,3/11/2025,1989,Refrigerated,Delayed,2980.98,4133.04,297.48,255
+SHP0879,Smith Ltd,Houston,TX,Jackson,MS,7/16/2025,7/16/2025,274,Refrigerated,On Time,491.83,584.19,46.15,26
+SHP0880,"Richardson, Hamilton and Bowman",Shreveport,LA,Memphis,TN,7/22/2025,7/22/2025,512,Refrigerated,On Time,888.81,1171.54,73.77,64
+SHP0881,Farley-Lopez,Gulfport,MS,Montgomery,AL,5/27/2025,5/31/2025,1266,Refrigerated,On Time,1627.94,1935.24,222.72,170
+SHP0882,Davis-Anderson,Memphis,TN,Tampa,FL,7/3/2025,7/3/2025,278,Flatbed,On Time,490.29,604.61,44.02,34
+SHP0883,Jacobson and Sons,Greensboro,NC,Fayetteville,AR,3/11/2025,3/11/2025,1772,Dry Van,On Time,2976.34,3614.33,289.04,146
+SHP0884,"Schneider, Wilson and Thomas",New Orleans,LA,Gulfport,MS,5/9/2025,5/9/2025,869,Refrigerated,On Time,1196.26,1377.75,119.50,93
+SHP0885,"Gray, Park and Kent",Hattiesburg,MS,Raleigh,NC,3/26/2025,3/26/2025,1520,Flatbed,On Time,1922.74,2683.25,233.33,128
+SHP0886,White LLC,Miami,FL,Atlanta,GA,3/11/2025,3/11/2025,1694,Refrigerated,Cancelled,2929.98,4072.19,269.99,157
+SHP0887,"Mitchell, Taylor and Howard",Shreveport,LA,Hattiesburg,MS,3/1/2025,3/1/2025,181,Dry Van,On Time,273.58,333.94,29.15,13
+SHP0888,"Moore, Baker and Griffin",Fort Smith,AR,Charlotte,NC,4/10/2025,4/10/2025,267,Refrigerated,On Time,464.38,618.90,44.26,30
+SHP0889,Flores and Sons,Greenville,SC,Raleigh,NC,7/5/2025,7/5/2025,715,Flatbed,On Time,1078.23,1300.80,96.83,48
+SHP0890,Holmes-Hopkins,Memphis,TN,Mobile,AL,6/1/2025,6/1/2025,164,Flatbed,On Time,215.34,275.75,25.01,24
+SHP0891,"Gonzalez, Dominguez and Rodriguez",Shreveport,LA,Atlanta,GA,3/20/2025,3/20/2025,1062,Dry Van,Delayed,1812.83,2257.50,192.26,108
+SHP0892,"Hart, Hart and Duran",San Antonio,TX,Hattiesburg,MS,6/4/2025,6/4/2025,1292,Dry Van,On Time,1607.87,1881.68,204.16,188
+SHP0893,Lynn LLC,Houston,TX,Gulfport,MS,6/21/2025,6/21/2025,907,Flatbed,Delayed,1534.21,2017.47,151.03,89
+SHP0894,"Gibson, Chen and Calderon",Gulfport,MS,Raleigh,NC,2/18/2025,2/18/2025,698,Refrigerated,On Time,928.42,1277.89,108.29,33
+SHP0895,Bell Group,Fort Smith,AR,Houston,TX,2/26/2025,2/26/2025,150,Refrigerated,On Time,181.21,228.80,22.46,7
+SHP0896,Chase Inc,Birmingham,AL,Miami,FL,6/13/2025,6/13/2025,1465,Refrigerated,Delayed,2625.99,3413.80,242.07,64
+SHP0897,"Wilson, Rios and Hall",Fort Smith,AR,Hattiesburg,MS,3/17/2025,3/17/2025,1777,Refrigerated,On Time,2758.95,3405.59,252.71,145
+SHP0898,"Williams, Taylor and Hurst",Memphis,TN,Mobile,AL,5/3/2025,5/3/2025,988,Dry Van,On Time,1286.05,1650.15,154.33,62
+SHP0899,"Ellis, Yu and Sanford",Montgomery,AL,Raleigh,NC,8/7/2025,8/7/2025,1142,Flatbed,On Time,1747.65,2400.13,160.03,38
+SHP0900,Greer LLC,Fayetteville,AR,Gulfport,MS,6/13/2025,6/13/2025,1211,Refrigerated,On Time,1755.18,2268.45,176.21,93
+SHP0901,Ochoa-Smith,Baton Rouge,LA,Dallas,TX,7/6/2025,7/6/2025,884,Refrigerated,On Time,1455.36,1937.62,153.79,109
+SHP0902,Kelly-Benton,Miami,FL,Gulfport,MS,6/28/2025,6/28/2025,1552,Flatbed,Cancelled,1965.29,2587.08,262.21,165
+SHP0903,Hobbs-Baker,Little Rock,AR,Baton Rouge,LA,2/22/2025,2/22/2025,457,Dry Van,On Time,678.75,918.49,74.39,47
+SHP0904,Shepherd-King,Mobile,AL,Greensboro,NC,7/27/2025,7/27/2025,1624,Dry Van,On Time,2741.01,3796.87,253.25,172
+SHP0905,Burns-Mcdowell,Birmingham,AL,Little Rock,AR,2/19/2025,2/19/2025,1643,Refrigerated,On Time,2803.25,3847.03,263.68,239
+SHP0906,Bender-Pena,Knoxville,TN,Montgomery,AL,3/27/2025,3/27/2025,771,Refrigerated,Cancelled,945.53,1183.43,117.41,32
+SHP0907,Fisher Inc,Atlanta,GA,Hattiesburg,MS,7/13/2025,7/13/2025,681,Flatbed,Cancelled,1086.97,1412.38,110.90,57
+SHP0908,Cherry PLC,Miami,FL,Fort Smith,AR,7/15/2025,7/15/2025,1357,Flatbed,Cancelled,2417.08,2843.76,202.19,189
+SHP0909,Macdonald-Rich,Miami,FL,Savannah,GA,3/25/2025,3/28/2025,541,Flatbed,Delayed,772.90,982.25,97.76,15
+SHP0910,"James, Wilson and Rasmussen",San Antonio,TX,Savannah,GA,6/11/2025,6/11/2025,611,Refrigerated,On Time,867.61,1124.00,98.74,72
+SHP0911,"Schmidt, Scott and Gomez",Columbia,SC,Fort Smith,AR,6/4/2025,6/4/2025,1649,Dry Van,Cancelled,2361.78,3098.18,260.78,66
+SHP0912,"Compton, Clark and Peterson",Greensboro,NC,Atlanta,GA,2/14/2025,2/19/2025,1624,Flatbed,On Time,2163.70,2566.81,269.51,80
+SHP0913,Wright-Hicks,Savannah,GA,Greensboro,NC,4/24/2025,4/24/2025,1077,Refrigerated,Delayed,1330.72,1582.52,190.37,40
+SHP0914,Martinez PLC,Memphis,TN,Dallas,TX,2/25/2025,2/26/2025,1151,Refrigerated,Delayed,2036.05,2657.24,164.43,40
+SHP0915,"Thompson, Odom and Sparks",Atlanta,GA,Dallas,TX,2/19/2025,2/19/2025,1152,Flatbed,On Time,2050.29,2471.64,161.01,118
+SHP0916,Smith-Coleman,Birmingham,AL,Jackson,MS,8/7/2025,8/7/2025,492,Dry Van,Cancelled,848.84,1168.83,88.72,59
+SHP0917,"Hampton, Greer and Tyler",Greensboro,NC,Montgomery,AL,5/7/2025,5/7/2025,1889,Refrigerated,Delayed,2987.15,3925.68,254.57,198
+SHP0918,Morgan-Brown,Knoxville,TN,Greensboro,NC,4/22/2025,4/24/2025,690,Flatbed,Delayed,1232.86,1425.26,106.03,46
+SHP0919,Rivera-Carroll,San Antonio,TX,Nashville,TN,3/20/2025,3/22/2025,1963,Refrigerated,On Time,2434.00,3210.51,338.74,160
+SHP0920,Martinez-Smith,Columbia,SC,Gulfport,MS,3/24/2025,3/24/2025,1464,Refrigerated,On Time,2038.96,2705.30,204.00,214
+SHP0921,"Jones, Green and Benitez",Birmingham,AL,San Antonio,TX,6/3/2025,6/3/2025,1441,Refrigerated,On Time,2170.26,2988.96,244.67,199
+SHP0922,"Thomas, Allen and Morgan",Knoxville,TN,Orlando,FL,4/23/2025,4/23/2025,461,Dry Van,Cancelled,590.05,797.43,68.96,49
+SHP0923,"Martinez, Snyder and Jenkins",Tampa,FL,Augusta,GA,7/20/2025,7/20/2025,222,Refrigerated,On Time,315.20,400.68,33.01,28
+SHP0924,Gates and Sons,Columbia,SC,Fayetteville,AR,2/20/2025,2/20/2025,933,Refrigerated,On Time,1476.37,1858.48,142.30,91
+SHP0925,Jennings Group,Birmingham,AL,Fort Smith,AR,4/20/2025,4/20/2025,1050,Dry Van,On Time,1552.04,2080.21,143.58,116
+SHP0926,Williams-Blair,New Orleans,LA,Orlando,FL,7/31/2025,7/31/2025,254,Flatbed,On Time,319.66,371.22,35.42,23
+SHP0927,Jones-Mccormick,Miami,FL,San Antonio,TX,6/7/2025,6/7/2025,1472,Flatbed,On Time,2423.59,3015.65,215.72,98
+SHP0928,"Price, Murray and Singh",Gulfport,MS,Columbia,SC,7/21/2025,7/21/2025,1096,Flatbed,On Time,1740.30,2294.89,191.74,125
+SHP0929,Harris-Crawford,Savannah,GA,San Antonio,TX,3/5/2025,3/10/2025,133,Dry Van,On Time,201.74,239.04,20.31,7
+SHP0930,"Fox, Clark and Preston",Miami,FL,Gulfport,MS,4/30/2025,4/30/2025,1138,Flatbed,On Time,1762.76,2325.61,174.46,29
+SHP0931,"Hopkins, Case and Reid",Nashville,TN,Atlanta,GA,5/14/2025,5/14/2025,1076,Flatbed,On Time,1462.25,1996.55,164.35,30
+SHP0932,"Fletcher, Martinez and Campbell",Shreveport,LA,Orlando,FL,7/13/2025,7/13/2025,1982,Refrigerated,On Time,2690.48,3491.62,290.06,275
+SHP0933,Wolfe Ltd,Raleigh,NC,Atlanta,GA,3/2/2025,3/2/2025,523,Refrigerated,On Time,792.49,1102.88,76.80,62
+SHP0934,Craig-Kelley,Miami,FL,Shreveport,LA,3/30/2025,3/30/2025,1740,Flatbed,On Time,2275.75,2763.53,238.13,42
+SHP0935,Barrera-Smith,Tampa,FL,Raleigh,NC,5/10/2025,5/10/2025,1562,Flatbed,Delayed,2660.96,3473.35,250.21,127
+SHP0936,Chen LLC,Nashville,TN,Mobile,AL,5/19/2025,5/19/2025,1083,Refrigerated,On Time,1738.93,2153.73,163.75,124
+SHP0937,Mcclure-Warner,Columbia,SC,Mobile,AL,5/11/2025,5/11/2025,316,Refrigerated,On Time,410.67,547.75,43.20,32
+SHP0938,"Frazier, Taylor and Thomas",Nashville,TN,Dallas,TX,5/26/2025,5/26/2025,551,Dry Van,Delayed,904.16,1141.81,82.27,59
+SHP0939,Long Group,Tampa,FL,Nashville,TN,4/12/2025,4/12/2025,743,Flatbed,On Time,1095.11,1365.99,100.83,39
+SHP0940,Foster-Hall,Columbia,SC,San Antonio,TX,7/30/2025,8/2/2025,545,Refrigerated,Delayed,763.07,991.64,95.30,35
+SHP0941,"Tran, Bryant and Graves",Tampa,FL,Atlanta,GA,5/2/2025,5/7/2025,838,Dry Van,On Time,1390.04,1740.57,135.93,50
+SHP0942,Ward Inc,Fayetteville,AR,Memphis,TN,3/10/2025,3/10/2025,870,Refrigerated,Delayed,1113.04,1343.51,134.73,102
+SHP0943,Kim-Sparks,Orlando,FL,Jackson,MS,5/8/2025,5/9/2025,583,Refrigerated,On Time,816.35,1006.29,94.17,24
+SHP0944,"Rogers, Brock and Barajas",Columbia,SC,Little Rock,AR,5/6/2025,5/6/2025,324,Refrigerated,On Time,478.98,601.07,49.09,20
+SHP0945,"Lewis, Rodriguez and Allison",Little Rock,AR,Birmingham,AL,7/12/2025,7/12/2025,1834,Dry Van,On Time,2929.27,3481.28,248.30,93
+SHP0946,Fuller-Tate,Savannah,GA,Memphis,TN,3/3/2025,3/3/2025,336,Flatbed,Delayed,522.30,661.20,53.19,34
+SHP0947,"Thomas, Osborne and Hall",Memphis,TN,Miami,FL,5/18/2025,5/18/2025,583,Refrigerated,Delayed,811.34,988.79,100.58,25
+SHP0948,Gonzalez-Boyd,Greenville,SC,Nashville,TN,4/16/2025,4/16/2025,558,Refrigerated,On Time,908.48,1206.99,86.83,50
+SHP0949,Floyd and Sons,Greensboro,NC,San Antonio,TX,4/28/2025,4/28/2025,1578,Flatbed,On Time,2662.80,3163.32,265.61,69
+SHP0950,"Nelson, Winters and Oneal",Tampa,FL,Dallas,TX,2/17/2025,2/17/2025,1028,Dry Van,On Time,1622.45,2205.40,164.80,64
+SHP0951,Richardson-Lewis,Jackson,MS,Birmingham,AL,3/19/2025,3/21/2025,1484,Dry Van,On Time,2660.05,3148.46,242.03,83
+SHP0952,Chapman Inc,Nashville,TN,Mobile,AL,7/11/2025,7/11/2025,1238,Flatbed,On Time,2205.93,2950.71,167.01,107
+SHP0953,"Burton, Allen and Vaughan",Dallas,TX,Hattiesburg,MS,5/16/2025,5/16/2025,269,Dry Van,On Time,336.45,416.23,38.33,27
+SHP0954,Williams-Evans,Tampa,FL,Greensboro,NC,6/18/2025,6/18/2025,588,Refrigerated,Delayed,1039.49,1337.94,89.70,33
+SHP0955,"Sandoval, Smith and Miller",Fort Smith,AR,Greenville,SC,8/5/2025,8/5/2025,831,Dry Van,On Time,1424.12,1750.01,144.09,115
+SHP0956,"Peters, Rogers and Ortiz",Miami,FL,Fort Smith,AR,3/11/2025,3/11/2025,1581,Refrigerated,On Time,2359.67,3145.28,237.42,231
+SHP0957,"Miller, Duran and Kramer",Nashville,TN,Greenville,SC,3/18/2025,3/18/2025,1042,Dry Van,Delayed,1823.78,2389.15,187.54,127
+SHP0958,Ray PLC,Shreveport,LA,Atlanta,GA,6/4/2025,6/4/2025,725,Dry Van,On Time,949.88,1158.12,128.28,21
+SHP0959,Nunez-Brown,Jackson,MS,Fort Smith,AR,3/26/2025,3/26/2025,1621,Dry Van,Cancelled,2127.05,2758.37,289.37,128
+SHP0960,George and Sons,Memphis,TN,Mobile,AL,3/22/2025,3/22/2025,1443,Dry Van,Delayed,2587.56,3507.93,243.44,212
+SHP0961,Vazquez-Logan,Columbia,SC,Fort Smith,AR,3/18/2025,3/18/2025,933,Refrigerated,On Time,1158.04,1489.26,131.47,40
+SHP0962,Young PLC,Miami,FL,Raleigh,NC,3/3/2025,3/3/2025,1453,Refrigerated,On Time,2604.38,3154.55,231.57,53
+SHP0963,"Munoz, Pena and Hardy",Miami,FL,Dallas,TX,6/27/2025,6/27/2025,579,Refrigerated,Delayed,721.71,914.34,78.33,72
+SHP0964,Robinson-Garcia,Atlanta,GA,Montgomery,AL,6/5/2025,6/5/2025,593,Dry Van,On Time,1040.33,1416.48,94.30,69
+SHP0965,Burns-Burns,Fayetteville,AR,Mobile,AL,6/7/2025,6/7/2025,201,Dry Van,On Time,348.92,427.73,36.02,10
+SHP0966,Gordon-Allen,Mobile,AL,Greenville,SC,4/7/2025,4/7/2025,1572,Dry Van,On Time,2042.54,2525.61,281.30,60
+SHP0967,"Fernandez, Bailey and Rosario",Little Rock,AR,Atlanta,GA,6/16/2025,6/16/2025,398,Refrigerated,On Time,600.08,749.73,64.32,27
+SHP0968,Walker and Sons,Memphis,TN,Gulfport,MS,7/16/2025,7/16/2025,1071,Dry Van,On Time,1416.21,1907.27,155.32,93
+SHP0969,Moreno and Sons,Baton Rouge,LA,Memphis,TN,6/26/2025,6/26/2025,962,Refrigerated,On Time,1310.11,1579.68,160.65,32
+SHP0970,Velez Ltd,Mobile,AL,Jackson,MS,6/25/2025,6/25/2025,493,Refrigerated,On Time,692.70,934.13,77.75,51
+SHP0971,Smith-Parrish,Gulfport,MS,Houston,TX,2/26/2025,3/2/2025,585,Dry Van,On Time,741.21,959.46,103.01,47
+SHP0972,"Rodriguez, Hernandez and Gray",Miami,FL,Savannah,GA,3/26/2025,3/26/2025,1914,Flatbed,On Time,2967.91,3585.08,311.41,255
+SHP0973,Hood Ltd,Shreveport,LA,Charlotte,NC,3/31/2025,3/31/2025,634,Refrigerated,On Time,785.70,951.82,102.33,71
+SHP0974,Price-Smith,Charlotte,NC,Savannah,GA,4/30/2025,4/30/2025,1978,Flatbed,On Time,2943.62,3811.28,305.22,293
+SHP0975,"Donaldson, Fisher and White",Savannah,GA,Houston,TX,5/9/2025,5/9/2025,1199,Refrigerated,On Time,2042.43,2638.56,171.22,34
+SHP0976,Mcdonald Ltd,Knoxville,TN,Mobile,AL,7/2/2025,7/2/2025,1462,Dry Van,On Time,2605.61,3468.33,215.91,79
+SHP0977,Jimenez-Hodge,Birmingham,AL,Jackson,MS,4/11/2025,4/11/2025,858,Refrigerated,On Time,1065.96,1247.95,145.39,107
+SHP0978,Lester PLC,Memphis,TN,Raleigh,NC,6/12/2025,6/12/2025,908,Refrigerated,On Time,1507.97,1791.07,161.33,54
+SHP0979,Guerrero-Burton,Birmingham,AL,Little Rock,AR,6/22/2025,6/22/2025,1194,Flatbed,On Time,2147.11,2554.23,162.17,129
+SHP0980,White-Harrison,Augusta,GA,Columbia,SC,2/28/2025,3/6/2025,832,Dry Van,On Time,1419.86,1936.69,138.91,117
+SHP0981,Mathews LLC,Greensboro,NC,Fayetteville,AR,7/18/2025,7/18/2025,777,Refrigerated,Delayed,1263.37,1513.47,134.47,70
+SHP0982,Thomas and Sons,Miami,FL,New Orleans,LA,7/19/2025,7/19/2025,1842,Flatbed,On Time,2552.18,3422.10,301.42,196
+SHP0983,Hernandez PLC,Tampa,FL,Greensboro,NC,7/9/2025,7/9/2025,834,Refrigerated,Delayed,1277.50,1622.19,111.77,65
+SHP0984,Perez Inc,Birmingham,AL,Atlanta,GA,6/6/2025,6/6/2025,585,Flatbed,On Time,711.34,823.28,95.73,18
+SHP0985,Alvarez Inc,Memphis,TN,Fayetteville,AR,4/27/2025,4/27/2025,1667,Flatbed,Delayed,2471.95,2975.25,232.67,205
+SHP0986,"Richards, Howard and Garcia",Raleigh,NC,Fayetteville,AR,8/1/2025,8/1/2025,1462,Flatbed,Cancelled,2603.62,3152.59,243.18,134
+SHP0987,Taylor Group,Mobile,AL,Savannah,GA,6/26/2025,6/26/2025,1041,Flatbed,On Time,1495.74,1847.98,157.94,152
+SHP0988,"Cortez, Cooper and Hunt",Baton Rouge,LA,Knoxville,TN,2/16/2025,2/16/2025,730,Refrigerated,On Time,944.92,1183.24,101.62,45
+SHP0989,Hall Ltd,Birmingham,AL,Dallas,TX,6/25/2025,6/25/2025,1517,Flatbed,Delayed,2719.38,3551.94,244.98,117
+SHP0990,Schmidt-Love,Memphis,TN,San Antonio,TX,5/11/2025,5/13/2025,1580,Refrigerated,Delayed,2679.60,3682.99,243.16,171
+SHP0991,Anderson Inc,Houston,TX,Mobile,AL,8/7/2025,8/7/2025,1401,Dry Van,Delayed,1919.95,2579.60,243.53,201
+SHP0992,Garcia LLC,Baton Rouge,LA,Charleston,SC,3/2/2025,3/2/2025,1443,Flatbed,On Time,2412.97,3108.31,253.35,54
+SHP0993,Rogers-Martinez,Atlanta,GA,Fayetteville,AR,2/21/2025,2/21/2025,579,Refrigerated,On Time,958.13,1249.92,83.56,50
+SHP0994,"Carrillo, Roberson and Schultz",Augusta,GA,Greenville,SC,5/8/2025,5/8/2025,912,Dry Van,On Time,1574.46,2102.07,148.76,92
+SHP0995,"Rice, Grimes and Thomas",Miami,FL,New Orleans,LA,4/11/2025,4/11/2025,317,Refrigerated,On Time,454.69,605.14,46.14,33
+SHP0996,Thomas-Bradshaw,Birmingham,AL,Jackson,MS,3/9/2025,3/9/2025,919,Dry Van,On Time,1227.91,1467.10,160.43,127
+SHP0997,Stone-Peters,Birmingham,AL,New Orleans,LA,7/15/2025,7/15/2025,1596,Refrigerated,On Time,2278.33,3187.59,253.55,33
+SHP0998,"Jones, Garrett and Bonilla",New Orleans,LA,Fayetteville,AR,4/8/2025,4/8/2025,731,Dry Van,On Time,893.98,1082.34,103.07,60
+SHP0999,"Hall, Fisher and Weber",Baton Rouge,LA,Jackson,MS,5/14/2025,5/14/2025,1692,Flatbed,On Time,2935.26,3517.55,268.52,43
+SHP1000,Butler-Bauer,New Orleans,LA,Greenville,SC,5/2/2025,5/2/2025,1193,Flatbed,On Time,1852.44,2407.38,161.65,157
